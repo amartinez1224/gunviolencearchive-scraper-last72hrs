@@ -1,5 +1,203 @@
 [
     {
+        "id": "2406244",
+        "date": "September 4, 2022",
+        "state": "Illinois",
+        "city": "Chicago",
+        "address": "1900 block of S State St",
+        "killed": "0",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406244",
+        "source": "https://home.chicagopolice.org/media_incident/1900-block-of-s-state-on-september-04-2022-at-approx-115-am-1st-district/"
+    },
+    {
+        "id": "2406237",
+        "date": "September 4, 2022",
+        "state": "Illinois",
+        "city": "Chicago",
+        "address": "1400 block of S Central Park Ave",
+        "killed": "0",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406237",
+        "source": "https://home.chicagopolice.org/media_incident/1400-block-of-s-central-park-on-september-04-2022-at-approx-1209-am-10th-district/"
+    },
+    {
+        "id": "2406209",
+        "date": "September 4, 2022",
+        "state": "New York",
+        "city": "Rochester",
+        "address": "Lake Ave and Owen St",
+        "killed": "0",
+        "injured": "2",
+        "url": "https://www.gunviolencearchive.org//incident/2406209",
+        "source": "https://twitter.com/RPLCinfosharing/status/1566419898598887425"
+    },
+    {
+        "id": "2406204",
+        "date": "September 4, 2022",
+        "state": "New York",
+        "city": "Corona (Queens)",
+        "address": "Otis Ave and Penrod St",
+        "killed": "0",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406204",
+        "source": "https://twitter.com/NYC_Alerts911/status/1566443539071901698"
+    },
+    {
+        "id": "2406198",
+        "date": "September 4, 2022",
+        "state": "Oregon",
+        "city": "Portland",
+        "address": "SE Woodstock Blvd and SE 90th Ave",
+        "killed": "1",
+        "injured": "0",
+        "url": "https://www.gunviolencearchive.org//incident/2406198",
+        "source": "https://www.koin.com/news/crime/police-man-found-dead-in-se-portland-home-after-shooting/"
+    },
+    {
+        "id": "2406185",
+        "date": "September 4, 2022",
+        "state": "Illinois",
+        "city": "Chicago",
+        "address": "5700 block of W Grand Ave",
+        "killed": "0",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406185",
+        "source": "https://wgntv.com/news/chicagocrime/11-people-shot-1-killed-in-overnight-shootings-in-chicago/"
+    },
+    {
+        "id": "2406183",
+        "date": "September 4, 2022",
+        "state": "Michigan",
+        "city": "Detroit",
+        "address": "Peerless Ave and McCormick St",
+        "killed": "0",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406183",
+        "source": "https://www.facebook.com/TheDetroitScanner/posts/pfbid025uifm2W3dTZEPaVDFDXi3gMPFS7h5zffWtoQhh4sZcigybRzvTXBy9aqFH6BBm1Ul"
+    },
+    {
+        "id": "2406181",
+        "date": "September 4, 2022",
+        "state": "Illinois",
+        "city": "Chicago",
+        "address": "6000 block of S Ada St",
+        "killed": "0",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406181",
+        "source": "https://wgntv.com/news/chicagocrime/11-people-shot-1-killed-in-overnight-shootings-in-chicago/"
+    },
+    {
+        "id": "2406177",
+        "date": "September 4, 2022",
+        "state": "Ohio",
+        "city": "Columbus",
+        "address": "800 block of Greenfield Dr",
+        "killed": "0",
+        "injured": "3",
+        "url": "https://www.gunviolencearchive.org//incident/2406177",
+        "source": "https://www.10tv.com/article/news/local/3-teens-injured-in-shooting-in-south-franklinton-neighborhood/530-8d5e41ee-e2cb-4fd4-a941-149c8f56e779"
+    },
+    {
+        "id": "2406174",
+        "date": "September 4, 2022",
+        "state": "Michigan",
+        "city": "Grand Rapids",
+        "address": "2662 Division Ave S",
+        "killed": "1",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406174",
+        "source": "https://www.woodtv.com/news/grand-rapids/1-killed-1-hurt-in-shooting-in-grand-rapids/"
+    },
+    {
+        "id": "2406172",
+        "date": "September 4, 2022",
+        "state": "Illinois",
+        "city": "Chicago",
+        "address": "700 block of S Kostner Ave",
+        "killed": "0",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406172",
+        "source": "https://www.fox32chicago.com/news/13-year-old-boy-wounded-in-lawndale-shooting"
+    },
+    {
+        "id": "2406157",
+        "date": "September 4, 2022",
+        "state": "Minnesota",
+        "city": "Minneapolis",
+        "address": "2600 block of Emerson Ave N",
+        "killed": "0",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406157",
+        "source": "https://twitter.com/CrimeWatchMpls/status/1566310055078658053"
+    },
+    {
+        "id": "2406151",
+        "date": "September 4, 2022",
+        "state": "Illinois",
+        "city": "Chicago",
+        "address": "200 block of S Wabash Ave",
+        "killed": "1",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406151",
+        "source": "https://cwbchicago.com/2022/09/loop-shooting-leaves-man-dead-on-his-40th-birthday-second-victim-injured.html"
+    },
+    {
+        "id": "2406123",
+        "date": "September 4, 2022",
+        "state": "South Carolina",
+        "city": "Charleston",
+        "address": "King St and Morris St",
+        "killed": "0",
+        "injured": "5",
+        "url": "https://www.gunviolencearchive.org//incident/2406123",
+        "source": "https://abcnews4.com/news/local/5-injured-in-shooting-on-king-street-in-charleston"
+    },
+    {
+        "id": "2406108",
+        "date": "September 4, 2022",
+        "state": "Virginia",
+        "city": "Norfolk",
+        "address": "5000 block of Killam Ave",
+        "killed": "0",
+        "injured": "7",
+        "url": "https://www.gunviolencearchive.org//incident/2406108",
+        "source": "https://www.wavy.com/news/local-news/norfolk/multiple-victims-in-norfolk-killam-avenue-shooting/"
+    },
+    {
+        "id": "2406099",
+        "date": "September 4, 2022",
+        "state": "Massachusetts",
+        "city": "Boston",
+        "address": "26 Melbourne St",
+        "killed": "2",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406099",
+        "source": "https://whdh.com/news/two-dead-after-early-morning-shooting-in-dorchester/"
+    },
+    {
+        "id": "2406092",
+        "date": "September 4, 2022",
+        "state": "New Jersey",
+        "city": "Trenton",
+        "address": "200 block of Spring St",
+        "killed": "1",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406092",
+        "source": "https://midjersey.news/2022/09/03/labor-day-weekend-homicide-in-trenton-one-dead-another-shot-on-spring-street/"
+    },
+    {
+        "id": "2406018",
+        "date": "September 4, 2022",
+        "state": "Utah",
+        "city": "Salt Lake City",
+        "address": "150 SW Temple St",
+        "killed": "1",
+        "injured": "0",
+        "url": "https://www.gunviolencearchive.org//incident/2406018",
+        "source": "http://www.slcpd.com/2022/09/03/slcpd-investigating-shooting-1-person-dead/"
+    },
+    {
         "id": "2405925",
         "date": "September 3, 2022",
         "state": "Illinois",
@@ -209,17 +407,6 @@
         "source": "https://www.hoiabc.com/2022/09/03/male-victim-shot-killed-peorias-17th-homicide-2022/"
     },
     {
-        "id": "2405375",
-        "date": "September 3, 2022",
-        "state": "North Carolina",
-        "city": "Winston Salem (Winston-salem)",
-        "address": "853f Reynolda Rd",
-        "killed": "0",
-        "injured": "3",
-        "url": "https://www.gunviolencearchive.org//incident/2405375",
-        "source": "https://www.wxii12.com/article/3-injured-during-bar-shooting-at-west-end-opera-house-in-winston-salem/41070931"
-    },
-    {
         "id": "2405744",
         "date": "September 3, 2022",
         "state": "Wisconsin",
@@ -262,17 +449,6 @@
         "injured": "2",
         "url": "https://www.gunviolencearchive.org//incident/2405612",
         "source": "https://www.chattanoogan.com/2022/9/3/455230/2-Shot-On-Milne-Street-Early-Saturday.aspx"
-    },
-    {
-        "id": "2405699",
-        "date": "September 3, 2022",
-        "state": "Oklahoma",
-        "city": "Lawton",
-        "address": "NW Oak Ave",
-        "killed": "0",
-        "injured": "1",
-        "url": "https://www.gunviolencearchive.org//incident/2405699",
-        "source": "https://www.kswo.com/2022/09/03/lpd-investigating-saturday-afternoon-shooting/"
     },
     {
         "id": "2405665",
@@ -407,28 +583,6 @@
         "source": "https://www.wandtv.com/news/police-danville-man-shot-twice-in-the-abdomen/article_289f0ae4-2b98-11ed-b4fd-bbbefe3d7b5a.html"
     },
     {
-        "id": "2405528",
-        "date": "September 3, 2022",
-        "state": "Pennsylvania",
-        "city": "Philadelphia",
-        "address": "N Franklin St and W Cayuga St",
-        "killed": "1",
-        "injured": "0",
-        "url": "https://www.gunviolencearchive.org//incident/2405528",
-        "source": "https://6abc.com/philadelphia-gun-violence-shooting-shootings-double-homicide/12193349/"
-    },
-    {
-        "id": "2405525",
-        "date": "September 3, 2022",
-        "state": "Pennsylvania",
-        "city": "Philadelphia",
-        "address": "B St and E Westmoreland St",
-        "killed": "0",
-        "injured": "1",
-        "url": "https://www.gunviolencearchive.org//incident/2405525",
-        "source": "https://6abc.com/philadelphia-gun-violence-shooting-shootings-double-homicide/12193349/"
-    },
-    {
         "id": "2405512",
         "date": "September 3, 2022",
         "state": "Connecticut",
@@ -438,17 +592,6 @@
         "injured": "2",
         "url": "https://www.gunviolencearchive.org//incident/2405512",
         "source": "https://www.wtnh.com/news/1-dead-2-injured-in-shooting-at-waterbury-bar/"
-    },
-    {
-        "id": "2405519",
-        "date": "September 3, 2022",
-        "state": "Pennsylvania",
-        "city": "Philadelphia",
-        "address": "N Orkney St and Indiana Ave",
-        "killed": "0",
-        "injured": "2",
-        "url": "https://www.gunviolencearchive.org//incident/2405519",
-        "source": "https://6abc.com/philadelphia-gun-violence-shooting-shootings-double-homicide/12193349/"
     },
     {
         "id": "2405510",
@@ -504,17 +647,6 @@
         "injured": "0",
         "url": "https://www.gunviolencearchive.org//incident/2405472",
         "source": "https://www.whio.com/news/local/1-taken-hospital-after-shooting-trotwood/GCTOGG7STZDOFI7OBC2RIHAG2A/"
-    },
-    {
-        "id": "2405470",
-        "date": "September 3, 2022",
-        "state": "Ohio",
-        "city": "Cincinnati",
-        "address": "3100 block of Linwood Ave",
-        "killed": "1",
-        "injured": "0",
-        "url": "https://www.gunviolencearchive.org//incident/2405470",
-        "source": "https://www.wcpo.com/news/local-news/man-killed-following-shooting-in-mount-lookout"
     },
     {
         "id": "2405452",
@@ -594,6 +726,127 @@
         "source": "https://home.chicagopolice.org/media_incident/11600-block-of-s-lowe-ave-on-september-03-2022-at-approx-330-am-5th-district/"
     },
     {
+        "id": "2406240",
+        "date": "September 3, 2022",
+        "state": "Georgia",
+        "city": "Macon",
+        "address": "Mercer University Dr and Stevens Dr",
+        "killed": "0",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406240",
+        "source": "https://wgxa.tv/news/local/deputies-shootout-between-two-men-in-macon-leaves-passerby-with-gunshot-wound"
+    },
+    {
+        "id": "2406234",
+        "date": "September 3, 2022",
+        "state": "Illinois",
+        "city": "Chicago",
+        "address": "700 block of N Spaulding Ave",
+        "killed": "0",
+        "injured": "2",
+        "url": "https://www.gunviolencearchive.org//incident/2406234",
+        "source": "https://home.chicagopolice.org/media_incident/700-block-of-n-spaulding-on-september-03-2022-at-approx-1046-pm-11th-district/"
+    },
+    {
+        "id": "2406222",
+        "date": "September 3, 2022",
+        "state": "Washington",
+        "city": "Bonney Lake",
+        "address": "9800 219th Ave E",
+        "killed": "0",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406222",
+        "source": "https://www.kiro7.com/news/local/man-injured-shooting-bonney-lake-apartment-complex/CQ3Q4DNDCZEQBKDL2RCCO3BAAY/"
+    },
+    {
+        "id": "2406219",
+        "date": "September 3, 2022",
+        "state": "Illinois",
+        "city": "Chicago",
+        "address": "1600 block of S Lawndale Ave",
+        "killed": "0",
+        "injured": "2",
+        "url": "https://www.gunviolencearchive.org//incident/2406219",
+        "source": "https://home.chicagopolice.org/media_incident/1600-block-of-s-lawndale-ave-on-september-03-2022-at-approx-1019-pm-10th-district/"
+    },
+    {
+        "id": "2406214",
+        "date": "September 3, 2022",
+        "state": "Illinois",
+        "city": "Chicago",
+        "address": "8800 block of S Marquette",
+        "killed": "0",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406214",
+        "source": "https://home.chicagopolice.org/media_incident/8800-block-of-s-marquette-on-september-03-2022-at-approx-948-pm-4th-district/"
+    },
+    {
+        "id": "2406207",
+        "date": "September 3, 2022",
+        "state": "New York",
+        "city": "Corona (Queens)",
+        "address": "N/A",
+        "killed": "0",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406207",
+        "source": "https://twitter.com/NYC_Alerts911/status/1566272516041187330"
+    },
+    {
+        "id": "2406169",
+        "date": "September 3, 2022",
+        "state": "Illinois",
+        "city": "Chicago",
+        "address": "6600 block of S Evans Ave",
+        "killed": "1",
+        "injured": "0",
+        "url": "https://www.gunviolencearchive.org//incident/2406169",
+        "source": "https://home.chicagopolice.org/media_incident/6600-block-of-s-evans-on-september-03-2022-at-approx-1115-pm-3rd-district/"
+    },
+    {
+        "id": "2406200",
+        "date": "September 3, 2022",
+        "state": "Florida",
+        "city": "Miami",
+        "address": "150 NW 13th St",
+        "killed": "0",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406200",
+        "source": "https://www.local10.com/news/local/2022/09/03/miami-police-investigating-after-one-man-shot-in-overtown/"
+    },
+    {
+        "id": "2406166",
+        "date": "September 3, 2022",
+        "state": "Illinois",
+        "city": "Chicago",
+        "address": "700 block of E 103rd St",
+        "killed": "1",
+        "injured": "0",
+        "url": "https://www.gunviolencearchive.org//incident/2406166",
+        "source": "https://www.fox32chicago.com/news/man-shot-at-gas-station-in-chicago-after-arguing-with-someone-else"
+    },
+    {
+        "id": "2406194",
+        "date": "September 3, 2022",
+        "state": "Florida",
+        "city": "Jacksonville",
+        "address": "1000 block of E 13th St",
+        "killed": "1",
+        "injured": "0",
+        "url": "https://www.gunviolencearchive.org//incident/2406194",
+        "source": "https://www.firstcoastnews.com/article/news/crime/police-phoenix-jacksonville-man-shot-shooting-crime/77-80c12af4-d849-4468-9e42-2d99df57f66b"
+    },
+    {
+        "id": "2406143",
+        "date": "September 3, 2022",
+        "state": "Florida",
+        "city": "Palatka",
+        "address": "207 N 18th St",
+        "killed": "2",
+        "injured": "2",
+        "url": "https://www.gunviolencearchive.org//incident/2406143",
+        "source": "https://www.firstcoastnews.com/article/news/crime/palatka-officials-investigating-shooting/77-955673d4-1100-425b-aef6-c6126bbe38e7"
+    },
+    {
         "id": "2405362",
         "date": "September 3, 2022",
         "state": "Georgia",
@@ -603,6 +856,17 @@
         "injured": "1",
         "url": "https://www.gunviolencearchive.org//incident/2405362",
         "source": "https://www.walb.com/2022/09/03/1-dead-1-arrested-valdosta-homicide/"
+    },
+    {
+        "id": "2406187",
+        "date": "September 3, 2022",
+        "state": "Illinois",
+        "city": "Chicago",
+        "address": "400 block of N La Salle St",
+        "killed": "0",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406187",
+        "source": "https://abc7chicago.com/river-north-shooting-drive-by-chicago-crime-police/12196167/"
     },
     {
         "id": "2405358",
@@ -627,6 +891,39 @@
         "source": "https://www.fox32chicago.com/news/man-shot-in-lake-view-during-argument"
     },
     {
+        "id": "2406155",
+        "date": "September 3, 2022",
+        "state": "Minnesota",
+        "city": "Saint Paul",
+        "address": "1265 Snelling Ave N",
+        "killed": "0",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406155",
+        "source": "https://www.keloland.com/news/local-news/police-1-injured-in-mn-state-fair-shooting-incident/"
+    },
+    {
+        "id": "2405922",
+        "date": "September 3, 2022",
+        "state": "Florida",
+        "city": "Tampa",
+        "address": "8300 block of 17th St",
+        "killed": "0",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2405922",
+        "source": "https://www.wtsp.com/article/news/local/hillsboroughcounty/tampa-police-3-year-old-accidentally-shoots-5-month-old/67-524e4638-f982-4db0-ab0d-fa2085f7738b"
+    },
+    {
+        "id": "2405699",
+        "date": "September 3, 2022",
+        "state": "Oklahoma",
+        "city": "Lawton",
+        "address": "6300 block of NW Oak Ave",
+        "killed": "0",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2405699",
+        "source": "https://www.texomashomepage.com/lawton/lawton-pd-investigating-shooting-incident/"
+    },
+    {
         "id": "2405302",
         "date": "September 3, 2022",
         "state": "New York",
@@ -649,6 +946,215 @@
         "source": "https://www.fox32chicago.com/news/man-found-fatally-shot-in-the-chest-in-old-town"
     },
     {
+        "id": "2406131",
+        "date": "September 3, 2022",
+        "state": "Florida",
+        "city": "Margate",
+        "address": "5800 Margate Blvd",
+        "killed": "1",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406131",
+        "source": "https://www.local10.com/news/local/2022/09/04/daughter-shoots-mother-before-turning-gun-on-herself-police-say/"
+    },
+    {
+        "id": "2406106",
+        "date": "September 3, 2022",
+        "state": "Rhode Island",
+        "city": "Providence",
+        "address": "Richland St and Salmon St",
+        "killed": "0",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406106",
+        "source": "https://www.abc6.com/police-17-year-old-shot-in-providence/"
+    },
+    {
+        "id": "2406087",
+        "date": "September 3, 2022",
+        "state": "New Jersey",
+        "city": "Englewood",
+        "address": "200 block of W Englewood Ave",
+        "killed": "1",
+        "injured": "0",
+        "url": "https://www.gunviolencearchive.org//incident/2406087",
+        "source": "https://www.nj.com/news/2022/09/man-killed-in-englewood-police-involved-shooting-officials-say.html+"
+    },
+    {
+        "id": "2405470",
+        "date": "September 3, 2022",
+        "state": "Ohio",
+        "city": "Cincinnati",
+        "address": "3100 block of Linwood Ave",
+        "killed": "1",
+        "injured": "0",
+        "url": "https://www.gunviolencearchive.org//incident/2405470",
+        "source": "https://www.fox19.com/2022/09/03/man-shot-multiple-times-mt-lookout-police-say/"
+    },
+    {
+        "id": "2406079",
+        "date": "September 3, 2022",
+        "state": "Ohio",
+        "city": "Cincinnati",
+        "address": "2600 block of Short Vine St",
+        "killed": "0",
+        "injured": "2",
+        "url": "https://www.gunviolencearchive.org//incident/2406079",
+        "source": "https://www.wlwt.com/article/overnight-shooting-leaves-two-injured-near-uc-campus/41071474"
+    },
+    {
+        "id": "2405375",
+        "date": "September 3, 2022",
+        "state": "North Carolina",
+        "city": "Winston Salem (Winston-salem)",
+        "address": "853 Reynolda Rd",
+        "killed": "0",
+        "injured": "3",
+        "url": "https://www.gunviolencearchive.org//incident/2405375",
+        "source": "https://www.wxii12.com/article/3-injured-during-bar-shooting-at-west-end-opera-house-in-winston-salem/41070931"
+    },
+    {
+        "id": "2406072",
+        "date": "September 3, 2022",
+        "state": "South Carolina",
+        "city": "Charleston",
+        "address": "1385 Ashley River Rd",
+        "killed": "0",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406072",
+        "source": "https://www.live5news.com/2022/09/04/13-year-old-injured-west-ashley-apartment-shooting/"
+    },
+    {
+        "id": "2406061",
+        "date": "September 3, 2022",
+        "state": "Pennsylvania",
+        "city": "Philadelphia",
+        "address": "N/A",
+        "killed": "0",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406061",
+        "source": "https://6abc.com/philadelphia-gun-violence-shooting-shootings-double-homicide/12193349/"
+    },
+    {
+        "id": "2405528",
+        "date": "September 3, 2022",
+        "state": "Pennsylvania",
+        "city": "Philadelphia",
+        "address": "700 block of W Cayuga St",
+        "killed": "1",
+        "injured": "0",
+        "url": "https://www.gunviolencearchive.org//incident/2405528",
+        "source": "https://6abc.com/philadelphia-gun-violence-shooting-shootings-double-homicide/12193349/"
+    },
+    {
+        "id": "2405525",
+        "date": "September 3, 2022",
+        "state": "Pennsylvania",
+        "city": "Philadelphia",
+        "address": "B St and E Westmoreland St",
+        "killed": "0",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2405525",
+        "source": "https://6abc.com/philadelphia-gun-violence-shooting-shootings-double-homicide/12193349/"
+    },
+    {
+        "id": "2406057",
+        "date": "September 3, 2022",
+        "state": "Pennsylvania",
+        "city": "Philadelphia",
+        "address": "4500 block of N 12th St",
+        "killed": "0",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406057",
+        "source": "https://6abc.com/philadelphia-gun-violence-shooting-shootings-double-homicide/12193349/"
+    },
+    {
+        "id": "2405519",
+        "date": "September 3, 2022",
+        "state": "Pennsylvania",
+        "city": "Philadelphia",
+        "address": "N Orkney St and Indiana Ave",
+        "killed": "0",
+        "injured": "2",
+        "url": "https://www.gunviolencearchive.org//incident/2405519",
+        "source": "https://6abc.com/philadelphia-gun-violence-shooting-shootings-double-homicide/12193349/"
+    },
+    {
+        "id": "2406052",
+        "date": "September 3, 2022",
+        "state": "Kansas",
+        "city": "Wellington",
+        "address": "1200 block of E Harvey Ave",
+        "killed": "1",
+        "injured": "0",
+        "url": "https://www.gunviolencearchive.org//incident/2406052",
+        "source": "https://www.kwch.com/2022/09/04/wellington-man-killed-after-saturday-shooting/"
+    },
+    {
+        "id": "2406042",
+        "date": "September 3, 2022",
+        "state": "Alabama",
+        "city": "Birmingham",
+        "address": "100 block of 3rd Ave W",
+        "killed": "2",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406042",
+        "source": "https://www.al.com/news/birmingham/2022/09/1-dead-2-wounded-as-more-than-25-shots-fired-in-birminghams-elyton-village.html"
+    },
+    {
+        "id": "2406029",
+        "date": "September 3, 2022",
+        "state": "Mississippi",
+        "city": "Hattiesburg",
+        "address": "1810 Country Club Rd",
+        "killed": "0",
+        "injured": "2",
+        "url": "https://www.gunviolencearchive.org//incident/2406029",
+        "source": "https://www.wjtv.com/news/pine-belt/teens-arrested-after-shooting-injures-two-in-hattiesburg/"
+    },
+    {
+        "id": "2406020",
+        "date": "September 3, 2022",
+        "state": "Texas",
+        "city": "Killeen",
+        "address": "400 block of N 12th St",
+        "killed": "0",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406020",
+        "source": "https://www.kwtx.com/2022/09/04/man-found-with-gunshot-wound-north-killeen/"
+    },
+    {
+        "id": "2405977",
+        "date": "September 3, 2022",
+        "state": "Texas",
+        "city": "San Antonio",
+        "address": "8000 Midcrown Dr",
+        "killed": "0",
+        "injured": "2",
+        "url": "https://www.gunviolencearchive.org//incident/2405977",
+        "source": "https://www.expressnews.com/news/local/article/Two-shootings-North-East-san-antonio-17417262.php"
+    },
+    {
+        "id": "2406014",
+        "date": "September 3, 2022",
+        "state": "Colorado",
+        "city": "Denver",
+        "address": "1200 block of S Bellaire St",
+        "killed": "0",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406014",
+        "source": "https://twitter.com/DenverPolice/status/1565979125638053889"
+    },
+    {
+        "id": "2406010",
+        "date": "September 3, 2022",
+        "state": "Colorado",
+        "city": "Denver",
+        "address": "Stout St and 22nd St",
+        "killed": "0",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406010",
+        "source": "https://twitter.com/DenverPolice/status/1565964140740456449"
+    },
+    {
         "id": "2406008",
         "date": "September 3, 2022",
         "state": "Nebraska",
@@ -669,17 +1175,6 @@
         "injured": "1",
         "url": "https://www.gunviolencearchive.org//incident/2405996",
         "source": "https://twitter.com/omaha_scanner/status/1566272717812367361"
-    },
-    {
-        "id": "2405977",
-        "date": "September 3, 2022",
-        "state": "Texas",
-        "city": "San Antonio",
-        "address": "8000 Midcrown Dr",
-        "killed": "0",
-        "injured": "2",
-        "url": "https://www.gunviolencearchive.org//incident/2405977",
-        "source": "https://www.ksat.com/news/local/2022/09/03/sapd-responds-to-two-shootings-1-fatal-at-the-same-apartment-complex-overnight/"
     },
     {
         "id": "2405966",
@@ -713,17 +1208,6 @@
         "injured": "5",
         "url": "https://www.gunviolencearchive.org//incident/2405689",
         "source": "https://www.orovillemr.com/2022/09/03/five-shot-at-chico-house-party/"
-    },
-    {
-        "id": "2405922",
-        "date": "September 3, 2022",
-        "state": "Florida",
-        "city": "Tampa",
-        "address": "8300 block of 17th St",
-        "killed": "0",
-        "injured": "0",
-        "url": "https://www.gunviolencearchive.org//incident/2405922",
-        "source": "https://www.wtsp.com/article/news/local/hillsboroughcounty/tampa-police-3-year-old-accidentally-shoots-5-month-old/67-524e4638-f982-4db0-ab0d-fa2085f7738b"
     },
     {
         "id": "2405930",
@@ -1375,17 +1859,6 @@
         "source": "https://www.wtvm.com/2022/09/02/shooting-33rd-street-columbus-leaves-1-injured/"
     },
     {
-        "id": "2405591",
-        "date": "September 2, 2022",
-        "state": "Pennsylvania",
-        "city": "Duquesne",
-        "address": "700 block of Priscilla Ave",
-        "killed": "1",
-        "injured": "0",
-        "url": "https://www.gunviolencearchive.org//incident/2405591",
-        "source": "https://www.cbsnews.com/pittsburgh/news/1-dead-duquesne-shooting/"
-    },
-    {
         "id": "2405587",
         "date": "September 2, 2022",
         "state": "Maryland",
@@ -1595,17 +2068,6 @@
         "source": "https://www.wthr.com/article/news/local/1-person-critically-injured-in-west-indianapolis-shooting/531-7eee9d7a-f648-4531-9d8c-83d4bb9c1ca0"
     },
     {
-        "id": "2405418",
-        "date": "September 2, 2022",
-        "state": "North Carolina",
-        "city": "Raleigh",
-        "address": "900 block of Skinner Dr",
-        "killed": "0",
-        "injured": "1",
-        "url": "https://www.gunviolencearchive.org//incident/2405418",
-        "source": "https://www.wral.com/huge-police-presence-after-woman-found-shot-in-raleigh-neighborhood/20446339/"
-    },
-    {
         "id": "2404541",
         "date": "September 2, 2022",
         "state": "Florida",
@@ -1758,6 +2220,17 @@
         "injured": "1",
         "url": "https://www.gunviolencearchive.org//incident/2404514",
         "source": "https://www.news10.com/news/albany-county/albany-police-woman-shot-in-back-on-lark-drive/?utm_medium=referral&utm_campaign=socialflow&utm_source=t.co"
+    },
+    {
+        "id": "2406217",
+        "date": "September 2, 2022",
+        "state": "Florida",
+        "city": "Deland",
+        "address": "260 E Euclid Ave",
+        "killed": "0",
+        "injured": "0",
+        "url": "https://www.gunviolencearchive.org//incident/2406217",
+        "source": "https://www.wesh.com/article/police-search-for-teen-accused-of-pulling-out-gun-at-deland-high-school-football-game/41074580"
     },
     {
         "id": "2404509",
@@ -1969,6 +2442,17 @@
         "source": "https://www.ashlandsource.com/news/one-dead-one-injured-after-shooting-near-brookside-west-park/article_bf7f608c-2b32-11ed-802f-9bf2a584c72b.html"
     },
     {
+        "id": "2406085",
+        "date": "September 2, 2022",
+        "state": "New Jersey",
+        "city": "Englewood",
+        "address": "Humphrey St and W Linden Ave",
+        "killed": "0",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406085",
+        "source": "https://www.nj.com/bergen/2022/09/police-investigating-friday-night-shooting-in-bergen-county.html"
+    },
+    {
         "id": "2404930",
         "date": "September 2, 2022",
         "state": "New York",
@@ -1999,7 +2483,51 @@
         "killed": "1",
         "injured": "0",
         "url": "https://www.gunviolencearchive.org//incident/2405207",
-        "source": "https://abc3340.com/news/local/one-dead-two-juveniles-to-hospital-after-shooting-car-crash-on-arkadelphia-road-birmingham-police-department-homicide-investigation-vehicle-wreck-fire-rescue-jefferson-county"
+        "source": "https://www.wvtm13.com/article/birmingham-shooting-arkadelphia-road/41070121"
+    },
+    {
+        "id": "2405418",
+        "date": "September 2, 2022",
+        "state": "North Carolina",
+        "city": "Raleigh",
+        "address": "900 block of Skinner Dr",
+        "killed": "1",
+        "injured": "0",
+        "url": "https://www.gunviolencearchive.org//incident/2405418",
+        "source": "https://www.wral.com/man-arrested-after-shooting-killing-woman-in-raleigh/20446339/"
+    },
+    {
+        "id": "2406049",
+        "date": "September 2, 2022",
+        "state": "Louisiana",
+        "city": "New Orleans",
+        "address": "6100 block of Franklin Ave",
+        "killed": "0",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406049",
+        "source": "https://wgno.com/news/louisiana/orleans-parish/nopd-search-for-suspect-in-friday-gentilly-shooting-victim-hospitalized/"
+    },
+    {
+        "id": "2406040",
+        "date": "September 2, 2022",
+        "state": "Georgia",
+        "city": "Milledgeville",
+        "address": "Union Hill Church Rd",
+        "killed": "1",
+        "injured": "0",
+        "url": "https://www.gunviolencearchive.org//incident/2406040",
+        "source": "https://gbi.georgia.gov/press-releases/2022-09-03/gbi-investigates-officer-involved-shooting-baldwin-county"
+    },
+    {
+        "id": "2406037",
+        "date": "September 2, 2022",
+        "state": "Mississippi",
+        "city": "Jackson",
+        "address": "14th Ave and 21st St N",
+        "killed": "0",
+        "injured": "1",
+        "url": "https://www.gunviolencearchive.org//incident/2406037",
+        "source": "https://cdispatch.com/news/2022-09-03/man-shot-after-declining-weed/"
     },
     {
         "id": "2405087",
@@ -2297,17 +2825,6 @@
         "injured": "1",
         "url": "https://www.gunviolencearchive.org//incident/2405852",
         "source": "https://www.fontanaheraldnews.com/news/inland_empire_news/road-rage-incident-leads-to-a-person-being-shot-in-rancho-cucamonga-on-sept-1/article_260f95ec-2aed-11ed-8efb-2bac95902eb9.html"
-    },
-    {
-        "id": "2404102",
-        "date": "September 1, 2022",
-        "state": "North Carolina",
-        "city": "Greensboro",
-        "address": "Randleman Rd",
-        "killed": "0",
-        "injured": "1",
-        "url": "https://www.gunviolencearchive.org//incident/2404102",
-        "source": "https://myfox8.com/news/north-carolina/greensboro/person-seriously-injured-in-randleman-road-shooting-greensboro-police-s/"
     },
     {
         "id": "2404374",
@@ -2816,17 +3333,6 @@
         "source": "https://www.fox10phoenix.com/news/south-phoenix-shooting-leaves-2-dead-no-arrests-made"
     },
     {
-        "id": "2404429",
-        "date": "September 1, 2022",
-        "state": "Ohio",
-        "city": "Westerville",
-        "address": "6481 N Hamilton Rd",
-        "killed": "1",
-        "injured": "1",
-        "url": "https://www.gunviolencearchive.org//incident/2404429",
-        "source": "https://abc6onyourside.com/news/local/1-dead-1-injured-in-northeast-columbus-shooting"
-    },
-    {
         "id": "2403672",
         "date": "September 1, 2022",
         "state": "Ohio",
@@ -2990,280 +3496,5 @@
         "injured": "0",
         "url": "https://www.gunviolencearchive.org//incident/2404526",
         "source": "https://www.wcjb.com/2022/09/02/gpd-investigates-deadly-shooting-ne-gainesville/"
-    },
-    {
-        "id": "2404245",
-        "date": "September 1, 2022",
-        "state": "District of Columbia",
-        "city": "Washington",
-        "address": "15th St SE and Mississippi Ave SE",
-        "killed": "1",
-        "injured": "0",
-        "url": "https://www.gunviolencearchive.org//incident/2404245",
-        "source": "https://www.wusa9.com/article/news/crime/police-man-shot-death-southeast-dc/65-20d2ead0-3d79-4f73-9f46-4abae3ea3d80"
-    },
-    {
-        "id": "2403555",
-        "date": "September 1, 2022",
-        "state": "Texas",
-        "city": "El Paso",
-        "address": "3800 block of Morehead Ave",
-        "killed": "0",
-        "injured": "1",
-        "url": "https://www.gunviolencearchive.org//incident/2403555",
-        "source": "https://www.ktsm.com/news/eppd-respond-to-shooting-in-central-el-paso/"
-    },
-    {
-        "id": "2404516",
-        "date": "September 1, 2022",
-        "state": "Florida",
-        "city": "Pensacola",
-        "address": "DeVilliers St and Jackson St",
-        "killed": "0",
-        "injured": "1",
-        "url": "https://www.gunviolencearchive.org//incident/2404516",
-        "source": "https://weartv.com/news/local/man-shot-in-leg-near-devilliers-street-in-pensacola"
-    },
-    {
-        "id": "2403534",
-        "date": "September 1, 2022",
-        "state": "Colorado",
-        "city": "Colorado Springs",
-        "address": "1700 block of Aeroplaza Dr",
-        "killed": "0",
-        "injured": "1",
-        "url": "https://www.gunviolencearchive.org//incident/2403534",
-        "source": "https://www.fox21news.com/news/police-investigating-after-shooting-in-colorado-springs/"
-    },
-    {
-        "id": "2403944",
-        "date": "September 1, 2022",
-        "state": "Illinois",
-        "city": "Chicago",
-        "address": "1600 block of W 79th St",
-        "killed": "1",
-        "injured": "1",
-        "url": "https://www.gunviolencearchive.org//incident/2403944",
-        "source": "https://chicago.suntimes.com/crime/2022/9/1/23333573/man-and-woman-seriously-hurt-gresham-shooting"
-    },
-    {
-        "id": "2404478",
-        "date": "September 1, 2022",
-        "state": "Illinois",
-        "city": "Chicago",
-        "address": "I-90 and Sacramento Ave",
-        "killed": "0",
-        "injured": "1",
-        "url": "https://www.gunviolencearchive.org//incident/2404478",
-        "source": "https://www.cbsnews.com/chicago/news/1-person-hospitalized-after-being-shot-inside-vehicle-on-kennedy-expressway/"
-    },
-    {
-        "id": "2404471",
-        "date": "September 1, 2022",
-        "state": "Maryland",
-        "city": "Baltimore",
-        "address": "2500 block of McHenry St",
-        "killed": "1",
-        "injured": "0",
-        "url": "https://www.gunviolencearchive.org//incident/2404471",
-        "source": "https://www.yahoo.com/now/police-male-dies-shock-trauma-053500322.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAABhEbF-iNa1zQCfVwjVKsYF6jkViPVRmP1BMsMWirOY0P5cvJPHzmpMKZbO7WCEiVv2lpZy5socLqugUsud42PGuI3fYmfsS-MuOu9e"
-    },
-    {
-        "id": "2404461",
-        "date": "September 1, 2022",
-        "state": "Mississippi",
-        "city": "Jackson",
-        "address": "Carolyn Ave and Clinton Blvd",
-        "killed": "0",
-        "injured": "2",
-        "url": "https://www.gunviolencearchive.org//incident/2404461",
-        "source": "https://www.wlbt.com/2022/09/02/two-people-shot-rushed-hospital-after-shooting-jackson/"
-    },
-    {
-        "id": "2404459",
-        "date": "September 1, 2022",
-        "state": "Mississippi",
-        "city": "Jackson",
-        "address": "Prentiss St and Capitol St",
-        "killed": "0",
-        "injured": "1",
-        "url": "https://www.gunviolencearchive.org//incident/2404459",
-        "source": "https://www.wapt.com/article/jackson-police-investigating-shooting-at-car-wash/41059393"
-    },
-    {
-        "id": "2403457",
-        "date": "September 1, 2022",
-        "state": "Illinois",
-        "city": "Chicago",
-        "address": "7200 block of S Ashland Ave",
-        "killed": "0",
-        "injured": "1",
-        "url": "https://www.gunviolencearchive.org//incident/2403457",
-        "source": "https://www.fox32chicago.com/news/west-englewood-shooting-man-critically-wounded-by-gunfire"
-    },
-    {
-        "id": "2403455",
-        "date": "September 1, 2022",
-        "state": "Illinois",
-        "city": "Chicago",
-        "address": "300 block of S Kilpatrick Ave",
-        "killed": "0",
-        "injured": "1",
-        "url": "https://www.gunviolencearchive.org//incident/2403455",
-        "source": "https://www.fox32chicago.com/news/gunfire-hits-man-30-on-chicagos-west-side"
-    },
-    {
-        "id": "2404132",
-        "date": "September 1, 2022",
-        "state": "Illinois",
-        "city": "Peoria",
-        "address": "2400 block of W Marquette Ave",
-        "killed": "0",
-        "injured": "1",
-        "url": "https://www.gunviolencearchive.org//incident/2404132",
-        "source": "https://www.centralillinoisproud.com/news/local-news/no-suspect-yet-in-shooting-that-left-one-teen-injured/"
-    },
-    {
-        "id": "2404448",
-        "date": "September 1, 2022",
-        "state": "Louisiana",
-        "city": "New Orleans",
-        "address": "N Peters St and Bienville St",
-        "killed": "0",
-        "injured": "1",
-        "url": "https://www.gunviolencearchive.org//incident/2404448",
-        "source": "https://www.nola.com/news/crime_police/article_59c0e2a4-2a36-11ed-b51a-7b41b6eb45b3.html"
-    },
-    {
-        "id": "2404441",
-        "date": "September 1, 2022",
-        "state": "Louisiana",
-        "city": "Baton Rouge",
-        "address": "11000 block of Foster Rd",
-        "killed": "1",
-        "injured": "0",
-        "url": "https://www.gunviolencearchive.org//incident/2404441",
-        "source": "https://www.theadvocate.com/baton_rouge/news/crime_police/article_453a498c-2a3c-11ed-86ac-07f65b32be2d.html"
-    },
-    {
-        "id": "2405250",
-        "date": "September 1, 2022",
-        "state": "California",
-        "city": "Orange Cove",
-        "address": "C St and 10th St",
-        "killed": "0",
-        "injured": "1",
-        "url": "https://www.gunviolencearchive.org//incident/2405250",
-        "source": "https://abc30.com/orange-cove-man-shot-hospitalized-20-year-old/12189359/"
-    },
-    {
-        "id": "2404427",
-        "date": "September 1, 2022",
-        "state": "Texas",
-        "city": "Houston",
-        "address": "9525 Southwest Fwy",
-        "killed": "0",
-        "injured": "1",
-        "url": "https://www.gunviolencearchive.org//incident/2404427",
-        "source": "https://twitter.com/houstonpolice/status/1565497307319222272"
-    },
-    {
-        "id": "2404425",
-        "date": "September 1, 2022",
-        "state": "Texas",
-        "city": "Houston",
-        "address": "4405 Lockwood Dr",
-        "killed": "0",
-        "injured": "1",
-        "url": "https://www.gunviolencearchive.org//incident/2404425",
-        "source": "https://twitter.com/houstonpolice/status/1565513777436655617"
-    },
-    {
-        "id": "2405245",
-        "date": "September 1, 2022",
-        "state": "Louisiana",
-        "city": "Houma",
-        "address": "200 block of Paulette St",
-        "killed": "1",
-        "injured": "0",
-        "url": "https://www.gunviolencearchive.org//incident/2405245",
-        "source": "https://www.houmatoday.com/story/news/crime/2022/09/02/houma-man-shot-and-killed-suspect-charged-with-second-degree-murder/65470707007/"
-    },
-    {
-        "id": "2404419",
-        "date": "September 1, 2022",
-        "state": "Alabama",
-        "city": "Elmore",
-        "address": "1400 block of Ingram Rd",
-        "killed": "1",
-        "injured": "0",
-        "url": "https://www.gunviolencearchive.org//incident/2404419",
-        "source": "https://www.montgomeryadvertiser.com/story/news/crime/2022/09/01/elmore-man-shot-and-killed-grandson-charged-crime-alabama/65468034007/"
-    },
-    {
-        "id": "2404415",
-        "date": "September 1, 2022",
-        "state": "Alabama",
-        "city": "Montgomery",
-        "address": "4500 block of Narrow Lane Rd",
-        "killed": "1",
-        "injured": "1",
-        "url": "https://www.gunviolencearchive.org//incident/2404415",
-        "source": "https://www.alabamanews.net/2022/09/01/man-charged-with-capital-murder-after-shooting-in-montgomery-leaves-one-dead-another-injured/"
-    },
-    {
-        "id": "2404413",
-        "date": "September 1, 2022",
-        "state": "Alabama",
-        "city": "Montgomery",
-        "address": "3000 block of Dillworth Rd",
-        "killed": "0",
-        "injured": "1",
-        "url": "https://www.gunviolencearchive.org//incident/2404413",
-        "source": "https://www.alabamanews.net/2022/09/01/woman-shot-in-montgomery/"
-    },
-    {
-        "id": "2404184",
-        "date": "September 1, 2022",
-        "state": "Virginia",
-        "city": "Newport News",
-        "address": "1300 block of Sojourner Ct",
-        "killed": "0",
-        "injured": "1",
-        "url": "https://www.gunviolencearchive.org//incident/2404184",
-        "source": "https://www.wavy.com/news/local-news/newport-news-pd-respond-to-shooting-on-sojourner-ct/"
-    },
-    {
-        "id": "2404497",
-        "date": "September 1, 2022",
-        "state": "Oregon",
-        "city": "Portland",
-        "address": "I-205 and Glisan St",
-        "killed": "0",
-        "injured": "1",
-        "url": "https://www.gunviolencearchive.org//incident/2404497",
-        "source": "https://www.kgw.com/article/news/crime/shooting-interstate-205-cab-driver/283-8892677a-77d2-4dd1-8c8a-ea08e803e707"
-    },
-    {
-        "id": "2404410",
-        "date": "September 1, 2022",
-        "state": "Alabama",
-        "city": "Mobile",
-        "address": "3006 Halls Mill Rd",
-        "killed": "1",
-        "injured": "0",
-        "url": "https://www.gunviolencearchive.org//incident/2404410",
-        "source": "https://www.fox10tv.com/2022/09/02/one-man-confirmed-dead-late-night-shooting/"
-    },
-    {
-        "id": "2404041",
-        "date": "September 1, 2022",
-        "state": "North Carolina",
-        "city": "Asheville",
-        "address": "Erskine Ave",
-        "killed": "0",
-        "injured": "1",
-        "url": "https://www.gunviolencearchive.org//incident/2404041",
-        "source": "https://news.yahoo.com/teen-shooting-victim-released-hospital-163128250.html"
     }
 ]

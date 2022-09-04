@@ -1,4 +1,58 @@
 
+<tr class="odd"><td>2406244</td><td>September 4, 2022</td><td>Illinois</td><td>Chicago</td><td>1900 block of S State St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406244">View Incident</a></li>
+<li class="1 last"><a href="https://home.chicagopolice.org/media_incident/1900-block-of-s-state-on-september-04-2022-at-approx-115-am-1st-district/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>2406237</td><td>September 4, 2022</td><td>Illinois</td><td>Chicago</td><td>1400 block of S Central Park Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406237">View Incident</a></li>
+<li class="1 last"><a href="https://home.chicagopolice.org/media_incident/1400-block-of-s-central-park-on-september-04-2022-at-approx-1209-am-10th-district/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>2406209</td><td>September 4, 2022</td><td>New York</td><td>Rochester</td><td>Lake Ave and Owen St</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406209">View Incident</a></li>
+<li class="1 last"><a href="https://twitter.com/RPLCinfosharing/status/1566419898598887425" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>2406204</td><td>September 4, 2022</td><td>New York</td><td>Corona (Queens)</td><td>Otis Ave and Penrod St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406204">View Incident</a></li>
+<li class="1 last"><a href="https://twitter.com/NYC_Alerts911/status/1566443539071901698" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>2406198</td><td>September 4, 2022</td><td>Oregon</td><td>Portland</td><td>SE Woodstock Blvd and SE 90th Ave</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406198">View Incident</a></li>
+<li class="1 last"><a href="https://www.koin.com/news/crime/police-man-found-dead-in-se-portland-home-after-shooting/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>2406185</td><td>September 4, 2022</td><td>Illinois</td><td>Chicago</td><td>5700 block of W Grand Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406185">View Incident</a></li>
+<li class="1 last"><a href="https://wgntv.com/news/chicagocrime/11-people-shot-1-killed-in-overnight-shootings-in-chicago/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>2406183</td><td>September 4, 2022</td><td>Michigan</td><td>Detroit</td><td>Peerless Ave and McCormick St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406183">View Incident</a></li>
+<li class="1 last"><a href="https://www.facebook.com/TheDetroitScanner/posts/pfbid025uifm2W3dTZEPaVDFDXi3gMPFS7h5zffWtoQhh4sZcigybRzvTXBy9aqFH6BBm1Ul" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>2406181</td><td>September 4, 2022</td><td>Illinois</td><td>Chicago</td><td>6000 block of S Ada St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406181">View Incident</a></li>
+<li class="1 last"><a href="https://wgntv.com/news/chicagocrime/11-people-shot-1-killed-in-overnight-shootings-in-chicago/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>2406177</td><td>September 4, 2022</td><td>Ohio</td><td>Columbus</td><td>800 block of Greenfield Dr</td><td>0</td><td>3</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406177">View Incident</a></li>
+<li class="1 last"><a href="https://www.10tv.com/article/news/local/3-teens-injured-in-shooting-in-south-franklinton-neighborhood/530-8d5e41ee-e2cb-4fd4-a941-149c8f56e779" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>2406174</td><td>September 4, 2022</td><td>Michigan</td><td>Grand Rapids</td><td>2662 Division Ave S</td><td>1</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406174">View Incident</a></li>
+<li class="1 last"><a href="https://www.woodtv.com/news/grand-rapids/1-killed-1-hurt-in-shooting-in-grand-rapids/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>2406172</td><td>September 4, 2022</td><td>Illinois</td><td>Chicago</td><td>700 block of S Kostner Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406172">View Incident</a></li>
+<li class="1 last"><a href="https://www.fox32chicago.com/news/13-year-old-boy-wounded-in-lawndale-shooting" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>2406157</td><td>September 4, 2022</td><td>Minnesota</td><td>Minneapolis</td><td>2600 block of Emerson Ave N</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406157">View Incident</a></li>
+<li class="1 last"><a href="https://twitter.com/CrimeWatchMpls/status/1566310055078658053" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>2406151</td><td>September 4, 2022</td><td>Illinois</td><td>Chicago</td><td>200 block of S Wabash Ave</td><td>1</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406151">View Incident</a></li>
+<li class="1 last"><a href="https://cwbchicago.com/2022/09/loop-shooting-leaves-man-dead-on-his-40th-birthday-second-victim-injured.html" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>2406123</td><td>September 4, 2022</td><td>South Carolina</td><td>Charleston</td><td>King St and Morris St</td><td>0</td><td>5</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406123">View Incident</a></li>
+<li class="1 last"><a href="https://abcnews4.com/news/local/5-injured-in-shooting-on-king-street-in-charleston" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>2406108</td><td>September 4, 2022</td><td>Virginia</td><td>Norfolk</td><td>5000 block of Killam Ave</td><td>0</td><td>7</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406108">View Incident</a></li>
+<li class="1 last"><a href="https://www.wavy.com/news/local-news/norfolk/multiple-victims-in-norfolk-killam-avenue-shooting/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>2406099</td><td>September 4, 2022</td><td>Massachusetts</td><td>Boston</td><td>26 Melbourne St</td><td>2</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406099">View Incident</a></li>
+<li class="1 last"><a href="https://whdh.com/news/two-dead-after-early-morning-shooting-in-dorchester/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>2406092</td><td>September 4, 2022</td><td>New Jersey</td><td>Trenton</td><td>200 block of Spring St</td><td>1</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406092">View Incident</a></li>
+<li class="1 last"><a href="https://midjersey.news/2022/09/03/labor-day-weekend-homicide-in-trenton-one-dead-another-shot-on-spring-street/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>2406018</td><td>September 4, 2022</td><td>Utah</td><td>Salt Lake City</td><td>150 SW Temple St</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406018">View Incident</a></li>
+<li class="1 last"><a href="http://www.slcpd.com/2022/09/03/slcpd-investigating-shooting-1-person-dead/" target="_blank">View Source</a></li>
+</ul></td> </tr>
 <tr class="odd"><td>2405925</td><td>September 3, 2022</td><td>Illinois</td><td>Chicago</td><td>3600 block of S Hamilton</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405925">View Incident</a></li>
 <li class="1 last"><a href="https://home.chicagopolice.org/media_incident/3600-block-of-s-hamilton-on-september-03-2022-at-approx-839-pm-9th-district/" target="_blank">View Source</a></li>
 </ul></td> </tr>
@@ -20,44 +74,42 @@
 <tr class="odd"><td>2405888</td><td>September 3, 2022</td><td>New York</td><td>Rochester</td><td>400 block of Lyell Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405888">View Incident</a></li>
 <li class="1 last"><a href="https://twitter.com/mcfw/status/1566224169729138689" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405866</td><td>September 3, 2022</td><td>Illinois</td><td>Yorkville</td><td>8400 block of Immanuel Rd</td><td>0</td><td>4</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405866">View Incident</a></li>
+
+<tr class="odd"><td>2405866</td><td>September 3, 2022</td><td>Illinois</td><td>Yorkville</td><td>8400 block of Immanuel Rd</td><td>0</td><td>4</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405866">View Incident</a></li>
 <li class="1 last"><a href="https://www.shawlocal.com/kendall-county-now/2022/09/03/breaking-three-injured-in-shooting-at-large-gathering-south-of-yorkville/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2405864</td><td>September 3, 2022</td><td>New York</td><td>Brooklyn</td><td>1704 Prospect Pl</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405864">View Incident</a></li>
+<tr class="even"><td>2405864</td><td>September 3, 2022</td><td>New York</td><td>Brooklyn</td><td>1704 Prospect Pl</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405864">View Incident</a></li>
 <li class="1 last"><a href="https://twitter.com/NYC_Alerts911/status/1566182433535528961" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405859</td><td>September 3, 2022</td><td>Maryland</td><td>Capitol Heights</td><td>1428 Ritchie Rd</td><td>1</td><td>3</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405859">View Incident</a></li>
+<tr class="odd"><td>2405859</td><td>September 3, 2022</td><td>Maryland</td><td>Capitol Heights</td><td>1428 Ritchie Rd</td><td>1</td><td>3</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405859">View Incident</a></li>
 <li class="1 last"><a href="https://abcnews.go.com/US/dead-wounded-eleven-shooting-maryland-police/story?id=89290378" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2405857</td><td>September 3, 2022</td><td>New York</td><td>Brooklyn</td><td>119 Rockaway Pkwy</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405857">View Incident</a></li>
+<tr class="even"><td>2405857</td><td>September 3, 2022</td><td>New York</td><td>Brooklyn</td><td>119 Rockaway Pkwy</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405857">View Incident</a></li>
 <li class="1 last"><a href="https://twitter.com/NYC_Alerts911/status/1566196972570255362" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405850</td><td>September 3, 2022</td><td>Ohio</td><td>Akron</td><td>700 block of Longview Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405850">View Incident</a></li>
+<tr class="odd"><td>2405850</td><td>September 3, 2022</td><td>Ohio</td><td>Akron</td><td>700 block of Longview Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405850">View Incident</a></li>
 <li class="1 last"><a href="https://fox8.com/news/multiple-arrested-after-police-involved-shooting-in-akron-i-team/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2405835</td><td>September 3, 2022</td><td>Texas</td><td>Dallas</td><td>2800 Clover St</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405835">View Incident</a></li>
+<tr class="even"><td>2405835</td><td>September 3, 2022</td><td>Texas</td><td>Dallas</td><td>2800 Clover St</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405835">View Incident</a></li>
 <li class="1 last"><a href="https://dpdbeat.com/2022/09/03/homicide-at-2800-clover-street/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405823</td><td>September 3, 2022</td><td>Iowa</td><td>Des Moines</td><td>6600 block of SE 5th St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405823">View Incident</a></li>
+<tr class="odd"><td>2405823</td><td>September 3, 2022</td><td>Iowa</td><td>Des Moines</td><td>6600 block of SE 5th St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405823">View Incident</a></li>
 <li class="1 last"><a href="https://who13.com/news/teenager-shot-in-foot-on-southeast-side-of-des-moines/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2405810</td><td>September 3, 2022</td><td>Minnesota</td><td>Saint Paul</td><td>1000 block of Bush Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405810">View Incident</a></li>
+<tr class="even"><td>2405810</td><td>September 3, 2022</td><td>Minnesota</td><td>Saint Paul</td><td>1000 block of Bush Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405810">View Incident</a></li>
 <li class="1 last"><a href="https://kstp.com/kstp-news/local-news/man-shot-another-arrested-in-st-paul-following-accidental-discharge-police-say/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405807</td><td>September 3, 2022</td><td>Minnesota</td><td>Minneapolis</td><td>Hennepin Ave and Lagoon Ave</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405807">View Incident</a></li>
+<tr class="odd"><td>2405807</td><td>September 3, 2022</td><td>Minnesota</td><td>Minneapolis</td><td>Hennepin Ave and Lagoon Ave</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405807">View Incident</a></li>
 <li class="1 last"><a href="https://www.facebook.com/CrimeWatch5thPct/posts/pfbid02y3kov3i3NpFnLUKvWX7aT6o1LGk1KJkthw1dYUFU56tMWLq6AGYnyJJcmdaPEoD9l" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2405801</td><td>September 3, 2022</td><td>California</td><td>Tulare</td><td>300 block of S Blackstone St</td><td>1</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405801">View Incident</a></li>
+<tr class="even"><td>2405801</td><td>September 3, 2022</td><td>California</td><td>Tulare</td><td>300 block of S Blackstone St</td><td>1</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405801">View Incident</a></li>
 <li class="1 last"><a href="https://kmph.com/news/local/1-dead-two-injured-including-teen-in-tulare-shooting-ca-california-local-central-valley-south-blackstone-reports-suffering-gunshot-wounds-adults-teen-police-department-victims-investigating" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405798</td><td>September 3, 2022</td><td>South Carolina</td><td>Lancaster</td><td>N French St and W Hood St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405798">View Incident</a></li>
+<tr class="odd"><td>2405798</td><td>September 3, 2022</td><td>South Carolina</td><td>Lancaster</td><td>N French St and W Hood St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405798">View Incident</a></li>
 <li class="1 last"><a href="https://www.fox46.com/news/u-s/lancaster/lancaster-woman-struck-in-leg-by-gunfire-suspect-being-sought/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2405776</td><td>September 3, 2022</td><td>Illinois</td><td>Peoria</td><td>1600 block of W Adrian G Hinton Ave</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405776">View Incident</a></li>
+<tr class="even"><td>2405776</td><td>September 3, 2022</td><td>Illinois</td><td>Peoria</td><td>1600 block of W Adrian G Hinton Ave</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405776">View Incident</a></li>
 <li class="1 last"><a href="https://www.hoiabc.com/2022/09/03/male-victim-shot-killed-peorias-17th-homicide-2022/" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="even"><td>2405375</td><td>September 3, 2022</td><td>North Carolina</td><td>Winston Salem (Winston-salem)</td><td>853f Reynolda Rd</td><td>0</td><td>3</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405375">View Incident</a></li>
-<li class="1 last"><a href="https://www.wxii12.com/article/3-injured-during-bar-shooting-at-west-end-opera-house-in-winston-salem/41070931" target="_blank">View Source</a></li>
 </ul></td> </tr>
 <tr class="odd"><td>2405744</td><td>September 3, 2022</td><td>Wisconsin</td><td>Milwaukee</td><td>N 34th St and W Wells St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405744">View Incident</a></li>
 <li class="1 last"><a href="https://www.cbs58.com/news/milwaukee-police-investigate-shooting-near-34th-and-wells" target="_blank">View Source</a></li>
@@ -71,10 +123,6 @@
 <tr class="even"><td>2405612</td><td>September 3, 2022</td><td>Tennessee</td><td>Chattanooga</td><td>2200 block of Milne St</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405612">View Incident</a></li>
 <li class="1 last"><a href="https://www.chattanoogan.com/2022/9/3/455230/2-Shot-On-Milne-Street-Early-Saturday.aspx" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2405699</td><td>September 3, 2022</td><td>Oklahoma</td><td>Lawton</td><td>NW Oak Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405699">View Incident</a></li>
-<li class="1 last"><a href="https://www.kswo.com/2022/09/03/lpd-investigating-saturday-afternoon-shooting/" target="_blank">View Source</a></li>
-</ul></td> </tr>
-
 <tr class="odd"><td>2405665</td><td>September 3, 2022</td><td>Virginia</td><td>Portsmouth</td><td>South St and Green St</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405665">View Incident</a></li>
 <li class="1 last"><a href="https://www.wavy.com/news/local-news/portsmouth/man-dead-following-shooting-in-portsmouth/" target="_blank">View Source</a></li>
 </ul></td> </tr>
@@ -102,26 +150,18 @@
 <tr class="odd"><td>2405621</td><td>September 3, 2022</td><td>Michigan</td><td>Kalamazoo</td><td>600 block of Portage St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405621">View Incident</a></li>
 <li class="1 last"><a href="https://www.fox17online.com/news/local-news/kzoo-bc/kalamazoo/kdps-multiple-shots-fired-leaves-one-man-hospitalized-in-critical-condition" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405272</td><td>September 3, 2022</td><td>Delaware</td><td>Dover</td><td>1200 N DuPont Hwy</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405272">View Incident</a></li>
+
+<tr class="odd"><td>2405272</td><td>September 3, 2022</td><td>Delaware</td><td>Dover</td><td>1200 N DuPont Hwy</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405272">View Incident</a></li>
 <li class="1 last"><a href="https://6abc.com/delaware-state-university-shooting-multiple-dsu-desu/12193452/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2405568</td><td>September 3, 2022</td><td>Pennsylvania</td><td>Philadelphia</td><td>Chew Ave and Locust St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405568">View Incident</a></li>
+<tr class="even"><td>2405568</td><td>September 3, 2022</td><td>Pennsylvania</td><td>Philadelphia</td><td>Chew Ave and Locust St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405568">View Incident</a></li>
 <li class="1 last"><a href="https://6abc.com/philadelphia-gun-violence-shooting-shootings-double-homicide/12193349/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405547</td><td>September 3, 2022</td><td>Illinois</td><td>Danville</td><td>Tennessee Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405547">View Incident</a></li>
+<tr class="odd"><td>2405547</td><td>September 3, 2022</td><td>Illinois</td><td>Danville</td><td>Tennessee Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405547">View Incident</a></li>
 <li class="1 last"><a href="https://www.wandtv.com/news/police-danville-man-shot-twice-in-the-abdomen/article_289f0ae4-2b98-11ed-b4fd-bbbefe3d7b5a.html" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2405528</td><td>September 3, 2022</td><td>Pennsylvania</td><td>Philadelphia</td><td>N Franklin St and W Cayuga St</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405528">View Incident</a></li>
-<li class="1 last"><a href="https://6abc.com/philadelphia-gun-violence-shooting-shootings-double-homicide/12193349/" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="even"><td>2405525</td><td>September 3, 2022</td><td>Pennsylvania</td><td>Philadelphia</td><td>B St and E Westmoreland St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405525">View Incident</a></li>
-<li class="1 last"><a href="https://6abc.com/philadelphia-gun-violence-shooting-shootings-double-homicide/12193349/" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="odd"><td>2405512</td><td>September 3, 2022</td><td>Connecticut</td><td>Waterbury</td><td>483 W Main St</td><td>1</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405512">View Incident</a></li>
+<tr class="even"><td>2405512</td><td>September 3, 2022</td><td>Connecticut</td><td>Waterbury</td><td>483 W Main St</td><td>1</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405512">View Incident</a></li>
 <li class="1 last"><a href="https://www.wtnh.com/news/1-dead-2-injured-in-shooting-at-waterbury-bar/" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="even"><td>2405519</td><td>September 3, 2022</td><td>Pennsylvania</td><td>Philadelphia</td><td>N Orkney St and Indiana Ave</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405519">View Incident</a></li>
-<li class="1 last"><a href="https://6abc.com/philadelphia-gun-violence-shooting-shootings-double-homicide/12193349/" target="_blank">View Source</a></li>
 </ul></td> </tr>
 <tr class="odd"><td>2405510</td><td>September 3, 2022</td><td>Pennsylvania</td><td>Philadelphia</td><td>Jackson St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405510">View Incident</a></li>
 <li class="1 last"><a href="https://6abc.com/philadelphia-gun-violence-shooting-shootings-double-homicide/12193349/" target="_blank">View Source</a></li>
@@ -138,19 +178,15 @@
 <tr class="odd"><td>2405472</td><td>September 3, 2022</td><td>Ohio</td><td>Dayton</td><td>4515 Salem Ave</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405472">View Incident</a></li>
 <li class="1 last"><a href="https://www.whio.com/news/local/1-taken-hospital-after-shooting-trotwood/GCTOGG7STZDOFI7OBC2RIHAG2A/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405470</td><td>September 3, 2022</td><td>Ohio</td><td>Cincinnati</td><td>3100 block of Linwood Ave</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405470">View Incident</a></li>
-<li class="1 last"><a href="https://www.wcpo.com/news/local-news/man-killed-following-shooting-in-mount-lookout" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="odd"><td>2405452</td><td>September 3, 2022</td><td>Indiana</td><td>Mishawaka</td><td>600 block of Locust St</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405452">View Incident</a></li>
+<tr class="even"><td>2405452</td><td>September 3, 2022</td><td>Indiana</td><td>Mishawaka</td><td>600 block of Locust St</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405452">View Incident</a></li>
 <li class="1 last"><a href="https://www.wndu.com/2022/09/03/mishawaka-14-year-old-dead-homicide-investigation/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405447</td><td>September 3, 2022</td><td>South Carolina</td><td>Adams Run</td><td>5300 block of Mauss Hill Rd</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405447">View Incident</a></li>
+<tr class="odd"><td>2405447</td><td>September 3, 2022</td><td>South Carolina</td><td>Adams Run</td><td>5300 block of Mauss Hill Rd</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405447">View Incident</a></li>
 <li class="1 last"><a href="https://abcnews4.com/news/local/adams-run-homeowner-shoots-intruder-suspect-to-face-charges-ccso-charleston-county-sheriffs-office-wciv" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2405445</td><td>September 3, 2022</td><td>Indiana</td><td>Indianapolis</td><td>1800 block of Howard St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405445">View Incident</a></li>
+<tr class="even"><td>2405445</td><td>September 3, 2022</td><td>Indiana</td><td>Indianapolis</td><td>1800 block of Howard St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405445">View Incident</a></li>
 <li class="1 last"><a href="https://www.wthr.com/article/news/local/1-person-critically-injured-in-west-indianapolis-shooting/531-7eee9d7a-f648-4531-9d8c-83d4bb9c1ca0" target="_blank">View Source</a></li>
 </ul></td> </tr>
-
 <tr class="odd"><td>2405442</td><td>September 3, 2022</td><td>Indiana</td><td>Indianapolis</td><td>W 26th St and Doctor M.L.K. Jr St</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405442">View Incident</a></li>
 <li class="1 last"><a href="https://www.wthr.com/article/news/local/1-person-critically-injured-in-west-indianapolis-shooting/531-7eee9d7a-f648-4531-9d8c-83d4bb9c1ca0" target="_blank">View Source</a></li>
 </ul></td> </tr>
@@ -163,14 +199,60 @@
 <tr class="even"><td>2405416</td><td>September 3, 2022</td><td>Illinois</td><td>Chicago</td><td>11600 block of S Lowe Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405416">View Incident</a></li>
 <li class="1 last"><a href="https://home.chicagopolice.org/media_incident/11600-block-of-s-lowe-ave-on-september-03-2022-at-approx-330-am-5th-district/" target="_blank">View Source</a></li>
 </ul></td> </tr>
+<tr class="odd"><td>2406240</td><td>September 3, 2022</td><td>Georgia</td><td>Macon</td><td>Mercer University Dr and Stevens Dr</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406240">View Incident</a></li>
+<li class="1 last"><a href="https://wgxa.tv/news/local/deputies-shootout-between-two-men-in-macon-leaves-passerby-with-gunshot-wound" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>2406234</td><td>September 3, 2022</td><td>Illinois</td><td>Chicago</td><td>700 block of N Spaulding Ave</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406234">View Incident</a></li>
+<li class="1 last"><a href="https://home.chicagopolice.org/media_incident/700-block-of-n-spaulding-on-september-03-2022-at-approx-1046-pm-11th-district/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>2406222</td><td>September 3, 2022</td><td>Washington</td><td>Bonney Lake</td><td>9800 219th Ave E</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406222">View Incident</a></li>
+<li class="1 last"><a href="https://www.kiro7.com/news/local/man-injured-shooting-bonney-lake-apartment-complex/CQ3Q4DNDCZEQBKDL2RCCO3BAAY/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>2406219</td><td>September 3, 2022</td><td>Illinois</td><td>Chicago</td><td>1600 block of S Lawndale Ave</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406219">View Incident</a></li>
+<li class="1 last"><a href="https://home.chicagopolice.org/media_incident/1600-block-of-s-lawndale-ave-on-september-03-2022-at-approx-1019-pm-10th-district/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>2406214</td><td>September 3, 2022</td><td>Illinois</td><td>Chicago</td><td>8800 block of S Marquette</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406214">View Incident</a></li>
+<li class="1 last"><a href="https://home.chicagopolice.org/media_incident/8800-block-of-s-marquette-on-september-03-2022-at-approx-948-pm-4th-district/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>2406207</td><td>September 3, 2022</td><td>New York</td><td>Corona (Queens)</td><td>N/A</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406207">View Incident</a></li>
+<li class="1 last"><a href="https://twitter.com/NYC_Alerts911/status/1566272516041187330" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>2406169</td><td>September 3, 2022</td><td>Illinois</td><td>Chicago</td><td>6600 block of S Evans Ave</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406169">View Incident</a></li>
+<li class="1 last"><a href="https://home.chicagopolice.org/media_incident/6600-block-of-s-evans-on-september-03-2022-at-approx-1115-pm-3rd-district/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>2406200</td><td>September 3, 2022</td><td>Florida</td><td>Miami</td><td>150 NW 13th St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406200">View Incident</a></li>
+<li class="1 last"><a href="https://www.local10.com/news/local/2022/09/03/miami-police-investigating-after-one-man-shot-in-overtown/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>2406166</td><td>September 3, 2022</td><td>Illinois</td><td>Chicago</td><td>700 block of E 103rd St</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406166">View Incident</a></li>
+<li class="1 last"><a href="https://www.fox32chicago.com/news/man-shot-at-gas-station-in-chicago-after-arguing-with-someone-else" target="_blank">View Source</a></li>
+</ul></td> </tr>
+
+<tr class="odd"><td>2406194</td><td>September 3, 2022</td><td>Florida</td><td>Jacksonville</td><td>1000 block of E 13th St</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406194">View Incident</a></li>
+<li class="1 last"><a href="https://www.firstcoastnews.com/article/news/crime/police-phoenix-jacksonville-man-shot-shooting-crime/77-80c12af4-d849-4468-9e42-2d99df57f66b" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>2406143</td><td>September 3, 2022</td><td>Florida</td><td>Palatka</td><td>207 N 18th St</td><td>2</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406143">View Incident</a></li>
+<li class="1 last"><a href="https://www.firstcoastnews.com/article/news/crime/palatka-officials-investigating-shooting/77-955673d4-1100-425b-aef6-c6126bbe38e7" target="_blank">View Source</a></li>
+</ul></td> </tr>
 <tr class="odd"><td>2405362</td><td>September 3, 2022</td><td>Georgia</td><td>Valdosta</td><td>4141 Bemiss Rd</td><td>1</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405362">View Incident</a></li>
 <li class="1 last"><a href="https://www.walb.com/2022/09/03/1-dead-1-arrested-valdosta-homicide/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405358</td><td>September 3, 2022</td><td>Illinois</td><td>Chicago</td><td>6000 block of W Racine St</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405358">View Incident</a></li>
+<tr class="even"><td>2406187</td><td>September 3, 2022</td><td>Illinois</td><td>Chicago</td><td>400 block of N La Salle St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406187">View Incident</a></li>
+<li class="1 last"><a href="https://abc7chicago.com/river-north-shooting-drive-by-chicago-crime-police/12196167/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>2405358</td><td>September 3, 2022</td><td>Illinois</td><td>Chicago</td><td>6000 block of W Racine St</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405358">View Incident</a></li>
 <li class="1 last"><a href="https://wgntv.com/news/chicagocrime/man-22-shot-and-killed-in-englewood/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2405341</td><td>September 3, 2022</td><td>Illinois</td><td>Chicago</td><td>3400 block of N Clark St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405341">View Incident</a></li>
+<tr class="even"><td>2405341</td><td>September 3, 2022</td><td>Illinois</td><td>Chicago</td><td>3400 block of N Clark St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405341">View Incident</a></li>
 <li class="1 last"><a href="https://www.fox32chicago.com/news/man-shot-in-lake-view-during-argument" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>2406155</td><td>September 3, 2022</td><td>Minnesota</td><td>Saint Paul</td><td>1265 Snelling Ave N</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406155">View Incident</a></li>
+<li class="1 last"><a href="https://www.keloland.com/news/local-news/police-1-injured-in-mn-state-fair-shooting-incident/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>2405922</td><td>September 3, 2022</td><td>Florida</td><td>Tampa</td><td>8300 block of 17th St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405922">View Incident</a></li>
+<li class="1 last"><a href="https://www.wtsp.com/article/news/local/hillsboroughcounty/tampa-police-3-year-old-accidentally-shoots-5-month-old/67-524e4638-f982-4db0-ab0d-fa2085f7738b" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>2405699</td><td>September 3, 2022</td><td>Oklahoma</td><td>Lawton</td><td>6300 block of NW Oak Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405699">View Incident</a></li>
+<li class="1 last"><a href="https://www.texomashomepage.com/lawton/lawton-pd-investigating-shooting-incident/" target="_blank">View Source</a></li>
 </ul></td> </tr>
 <tr class="even"><td>2405302</td><td>September 3, 2022</td><td>New York</td><td>Poughkeepsie</td><td>425 Main St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405302">View Incident</a></li>
 <li class="1 last"><a href="https://midhudsonnews.com/2022/09/03/another-reported-shooting-in-poughkeepsie/" target="_blank">View Source</a></li>
@@ -178,26 +260,78 @@
 <tr class="odd"><td>2405300</td><td>September 3, 2022</td><td>Illinois</td><td>Chicago</td><td>1300 block of N Hudson Ave</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405300">View Incident</a></li>
 <li class="1 last"><a href="https://www.fox32chicago.com/news/man-found-fatally-shot-in-the-chest-in-old-town" target="_blank">View Source</a></li>
 </ul></td> </tr>
+<tr class="even"><td>2406131</td><td>September 3, 2022</td><td>Florida</td><td>Margate</td><td>5800 Margate Blvd</td><td>1</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406131">View Incident</a></li>
+<li class="1 last"><a href="https://www.local10.com/news/local/2022/09/04/daughter-shoots-mother-before-turning-gun-on-herself-police-say/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>2406106</td><td>September 3, 2022</td><td>Rhode Island</td><td>Providence</td><td>Richland St and Salmon St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406106">View Incident</a></li>
+<li class="1 last"><a href="https://www.abc6.com/police-17-year-old-shot-in-providence/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>2406087</td><td>September 3, 2022</td><td>New Jersey</td><td>Englewood</td><td>200 block of W Englewood Ave</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406087">View Incident</a></li>
+<li class="1 last"><a href="https://www.nj.com/news/2022/09/man-killed-in-englewood-police-involved-shooting-officials-say.html+" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>2405470</td><td>September 3, 2022</td><td>Ohio</td><td>Cincinnati</td><td>3100 block of Linwood Ave</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405470">View Incident</a></li>
+<li class="1 last"><a href="https://www.fox19.com/2022/09/03/man-shot-multiple-times-mt-lookout-police-say/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>2406079</td><td>September 3, 2022</td><td>Ohio</td><td>Cincinnati</td><td>2600 block of Short Vine St</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406079">View Incident</a></li>
+<li class="1 last"><a href="https://www.wlwt.com/article/overnight-shooting-leaves-two-injured-near-uc-campus/41071474" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>2405375</td><td>September 3, 2022</td><td>North Carolina</td><td>Winston Salem (Winston-salem)</td><td>853 Reynolda Rd</td><td>0</td><td>3</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405375">View Incident</a></li>
+<li class="1 last"><a href="https://www.wxii12.com/article/3-injured-during-bar-shooting-at-west-end-opera-house-in-winston-salem/41070931" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>2406072</td><td>September 3, 2022</td><td>South Carolina</td><td>Charleston</td><td>1385 Ashley River Rd</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406072">View Incident</a></li>
+<li class="1 last"><a href="https://www.live5news.com/2022/09/04/13-year-old-injured-west-ashley-apartment-shooting/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>2406061</td><td>September 3, 2022</td><td>Pennsylvania</td><td>Philadelphia</td><td>N/A</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406061">View Incident</a></li>
+<li class="1 last"><a href="https://6abc.com/philadelphia-gun-violence-shooting-shootings-double-homicide/12193349/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>2405528</td><td>September 3, 2022</td><td>Pennsylvania</td><td>Philadelphia</td><td>700 block of W Cayuga St</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405528">View Incident</a></li>
+<li class="1 last"><a href="https://6abc.com/philadelphia-gun-violence-shooting-shootings-double-homicide/12193349/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>2405525</td><td>September 3, 2022</td><td>Pennsylvania</td><td>Philadelphia</td><td>B St and E Westmoreland St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405525">View Incident</a></li>
+<li class="1 last"><a href="https://6abc.com/philadelphia-gun-violence-shooting-shootings-double-homicide/12193349/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>2406057</td><td>September 3, 2022</td><td>Pennsylvania</td><td>Philadelphia</td><td>4500 block of N 12th St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406057">View Incident</a></li>
+<li class="1 last"><a href="https://6abc.com/philadelphia-gun-violence-shooting-shootings-double-homicide/12193349/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>2405519</td><td>September 3, 2022</td><td>Pennsylvania</td><td>Philadelphia</td><td>N Orkney St and Indiana Ave</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405519">View Incident</a></li>
+<li class="1 last"><a href="https://6abc.com/philadelphia-gun-violence-shooting-shootings-double-homicide/12193349/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>2406052</td><td>September 3, 2022</td><td>Kansas</td><td>Wellington</td><td>1200 block of E Harvey Ave</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406052">View Incident</a></li>
+<li class="1 last"><a href="https://www.kwch.com/2022/09/04/wellington-man-killed-after-saturday-shooting/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>2406042</td><td>September 3, 2022</td><td>Alabama</td><td>Birmingham</td><td>100 block of 3rd Ave W</td><td>2</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406042">View Incident</a></li>
+<li class="1 last"><a href="https://www.al.com/news/birmingham/2022/09/1-dead-2-wounded-as-more-than-25-shots-fired-in-birminghams-elyton-village.html" target="_blank">View Source</a></li>
+</ul></td> </tr>
+
+<tr class="odd"><td>2406029</td><td>September 3, 2022</td><td>Mississippi</td><td>Hattiesburg</td><td>1810 Country Club Rd</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406029">View Incident</a></li>
+<li class="1 last"><a href="https://www.wjtv.com/news/pine-belt/teens-arrested-after-shooting-injures-two-in-hattiesburg/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>2406020</td><td>September 3, 2022</td><td>Texas</td><td>Killeen</td><td>400 block of N 12th St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406020">View Incident</a></li>
+<li class="1 last"><a href="https://www.kwtx.com/2022/09/04/man-found-with-gunshot-wound-north-killeen/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>2405977</td><td>September 3, 2022</td><td>Texas</td><td>San Antonio</td><td>8000 Midcrown Dr</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405977">View Incident</a></li>
+<li class="1 last"><a href="https://www.expressnews.com/news/local/article/Two-shootings-North-East-san-antonio-17417262.php" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>2406014</td><td>September 3, 2022</td><td>Colorado</td><td>Denver</td><td>1200 block of S Bellaire St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406014">View Incident</a></li>
+<li class="1 last"><a href="https://twitter.com/DenverPolice/status/1565979125638053889" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>2406010</td><td>September 3, 2022</td><td>Colorado</td><td>Denver</td><td>Stout St and 22nd St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406010">View Incident</a></li>
+<li class="1 last"><a href="https://twitter.com/DenverPolice/status/1565964140740456449" target="_blank">View Source</a></li>
+</ul></td> </tr>
 <tr class="even"><td>2406008</td><td>September 3, 2022</td><td>Nebraska</td><td>Omaha</td><td>N 42nd St and Kansas Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406008">View Incident</a></li>
 <li class="1 last"><a href="https://twitter.com/omaha_scanner/status/1566160128096800769" target="_blank">View Source</a></li>
 </ul></td> </tr>
 <tr class="odd"><td>2405996</td><td>September 3, 2022</td><td>Nebraska</td><td>Valley</td><td>26120 E Meigs St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405996">View Incident</a></li>
 <li class="1 last"><a href="https://twitter.com/omaha_scanner/status/1566272717812367361" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405977</td><td>September 3, 2022</td><td>Texas</td><td>San Antonio</td><td>8000 Midcrown Dr</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405977">View Incident</a></li>
-<li class="1 last"><a href="https://www.ksat.com/news/local/2022/09/03/sapd-responds-to-two-shootings-1-fatal-at-the-same-apartment-complex-overnight/" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="odd"><td>2405966</td><td>September 3, 2022</td><td>Missouri</td><td>Paris</td><td>State Hwy 15</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405966">View Incident</a></li>
+<tr class="even"><td>2405966</td><td>September 3, 2022</td><td>Missouri</td><td>Paris</td><td>State Hwy 15</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405966">View Incident</a></li>
 <li class="1 last"><a href="https://abc17news.com/news/2022/09/03/iowa-man-charged-in-officer-involved-shooting-in-monroe-county/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405156</td><td>September 3, 2022</td><td>Wisconsin</td><td>Milwaukee</td><td>5000 block of N Sherman Blvd</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405156">View Incident</a></li>
+<tr class="odd"><td>2405156</td><td>September 3, 2022</td><td>Wisconsin</td><td>Milwaukee</td><td>5000 block of N Sherman Blvd</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405156">View Incident</a></li>
 <li class="1 last"><a href="https://twitter.com/USFiR2015/status/1565912597144211457" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2405689</td><td>September 3, 2022</td><td>California</td><td>Chico</td><td>1500 block of W 5th St</td><td>0</td><td>5</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405689">View Incident</a></li>
+<tr class="even"><td>2405689</td><td>September 3, 2022</td><td>California</td><td>Chico</td><td>1500 block of W 5th St</td><td>0</td><td>5</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405689">View Incident</a></li>
 <li class="1 last"><a href="https://www.orovillemr.com/2022/09/03/five-shot-at-chico-house-party/" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="even"><td>2405922</td><td>September 3, 2022</td><td>Florida</td><td>Tampa</td><td>8300 block of 17th St</td><td>0</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405922">View Incident</a></li>
-<li class="1 last"><a href="https://www.wtsp.com/article/news/local/hillsboroughcounty/tampa-police-3-year-old-accidentally-shoots-5-month-old/67-524e4638-f982-4db0-ab0d-fa2085f7738b" target="_blank">View Source</a></li>
 </ul></td> </tr>
 <tr class="odd"><td>2405930</td><td>September 3, 2022</td><td>Louisiana</td><td>New Orleans</td><td>Murl St and Magellan St</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405930">View Incident</a></li>
 <li class="1 last"><a href="https://www.nola.com/news/crime_police/article_9ffb242c-2bc7-11ed-844f-33ff114345b1.html" target="_blank">View Source</a></li>
@@ -226,25 +360,25 @@
 <tr class="odd"><td>2405109</td><td>September 2, 2022</td><td>Michigan</td><td>Detroit</td><td>3500 block of 15th St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405109">View Incident</a></li>
 <li class="1 last"><a href="https://www.facebook.com/TheDetroitScanner/posts/pfbid0Y8aZJ8ZTrYYzqMwGCTfhEdxb7M9ckWXXGiajsEc8cXUeECZEXZATpfBgG4GjkzG6l?__cft__[0]=AZWtcH4eihnApFlSN1P4JULotJqtBU-3_5QsW9gjXEWed5e275rISV3VGMNlxqmd-PkzqyH9jbFA6hyWXi27DIDqdpiezphkcynsw0Es5Jfp-i5_2jmh7eqwqls" target="_blank">View Source</a></li>
 </ul></td> </tr>
-
-<tr class="odd"><td>2405104</td><td>September 2, 2022</td><td>Colorado</td><td>Platteville</td><td>US-85 and CO-60</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405104">View Incident</a></li>
+<tr class="even"><td>2405104</td><td>September 2, 2022</td><td>Colorado</td><td>Platteville</td><td>US-85 and CO-60</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405104">View Incident</a></li>
 <li class="1 last"><a href="https://www.thedenverchannel.com/news/local-news/weld-county-deputies-looking-for-suspects-vehicle-after-alleged-road-rage-shooting" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405091</td><td>September 2, 2022</td><td>South Carolina</td><td>Longs</td><td>Dewitt Rd</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405091">View Incident</a></li>
+<tr class="odd"><td>2405091</td><td>September 2, 2022</td><td>South Carolina</td><td>Longs</td><td>Dewitt Rd</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405091">View Incident</a></li>
 <li class="1 last"><a href="https://wpde.com/news/local/1-shot-to-death-found-along-horry-co-roadway-homicide-investigation-underway-coroner" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2404916</td><td>September 2, 2022</td><td>New York</td><td>Buffalo</td><td>Stevens Ave and Northland Ave</td><td>2</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404916">View Incident</a></li>
+<tr class="even"><td>2404916</td><td>September 2, 2022</td><td>New York</td><td>Buffalo</td><td>Stevens Ave and Northland Ave</td><td>2</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404916">View Incident</a></li>
 <li class="1 last"><a href="https://www.wkbw.com/news/local-news/buffalo-police-investigating-fatal-shooting-on-stevens-avenue" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405083</td><td>September 2, 2022</td><td>South Carolina</td><td>Columbia</td><td>120 Sparkleberry Ln</td><td>0</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405083">View Incident</a></li>
+<tr class="odd"><td>2405083</td><td>September 2, 2022</td><td>South Carolina</td><td>Columbia</td><td>120 Sparkleberry Ln</td><td>0</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405083">View Incident</a></li>
 <li class="1 last"><a href="https://www.wistv.com/2022/09/02/15-year-old-charged-after-bringing-gun-spring-valley-high-school/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2405879</td><td>September 2, 2022</td><td>New York</td><td>Buffalo</td><td>200 block of Urban St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405879">View Incident</a></li>
+<tr class="even"><td>2405879</td><td>September 2, 2022</td><td>New York</td><td>Buffalo</td><td>200 block of Urban St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405879">View Incident</a></li>
 <li class="1 last"><a href="https://www.wkbw.com/news/local-news/police-looking-for-shooting-victim-who-escaped-from-ecmc?fbclid=IwAR0Kmp9rz12RglALZyx33uUHG4zEIfhGVNATv3R_8Q3jILSzIlUVqkUKJJM" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405076</td><td>September 2, 2022</td><td>South Carolina</td><td>North Charleston</td><td>Fairwind Dr</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405076">View Incident</a></li>
+<tr class="odd"><td>2405076</td><td>September 2, 2022</td><td>South Carolina</td><td>North Charleston</td><td>Fairwind Dr</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405076">View Incident</a></li>
 <li class="1 last"><a href="https://www.live5news.com/2022/09/02/man-charged-deadly-overnight-shooting/" target="_blank">View Source</a></li>
 </ul></td> </tr>
+
 <tr class="odd"><td>2405872</td><td>September 2, 2022</td><td>Florida</td><td>Orlando</td><td>5000 block of Savannah River Way</td><td>2</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405872">View Incident</a></li>
 <li class="1 last"><a href="https://www.wftv.com/news/local/orlando-police-investigating-murder-suicide-savannah-river-way/UYXYHHDJPJESPNYZCZ3HLWXM2Q/" target="_blank">View Source</a></li>
 </ul></td> </tr>
@@ -302,25 +436,25 @@
 <tr class="odd"><td>2405725</td><td>September 2, 2022</td><td>Texas</td><td>Austin</td><td>S Congress Ave and Eberhart Ln</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405725">View Incident</a></li>
 <li class="1 last"><a href="https://cbsaustin.com/news/local/man-taken-to-hospital-after-being-shot-in-both-legs-in-s-austin-shooting-crime-atcems-apd-police" target="_blank">View Source</a></li>
 </ul></td> </tr>
-
-<tr class="odd"><td>2404903</td><td>September 2, 2022</td><td>New York</td><td>Corona (Queens)</td><td>136th Ave and Brookville Blvd</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404903">View Incident</a></li>
+<tr class="even"><td>2404903</td><td>September 2, 2022</td><td>New York</td><td>Corona (Queens)</td><td>136th Ave and Brookville Blvd</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404903">View Incident</a></li>
 <li class="1 last"><a href="https://twitter.com/NYC_Alerts911/status/1565813089454493701" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405147</td><td>September 2, 2022</td><td>Wisconsin</td><td>Appleton (Grand Chute)</td><td>800 block of W Northstar Dr</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405147">View Incident</a></li>
+<tr class="odd"><td>2405147</td><td>September 2, 2022</td><td>Wisconsin</td><td>Appleton (Grand Chute)</td><td>800 block of W Northstar Dr</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405147">View Incident</a></li>
 <li class="1 last"><a href="https://www.wbay.com/2022/09/03/two-hurt-accidental-shooting-grand-chute-florida-man-faces-charges/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2405727</td><td>September 2, 2022</td><td>California</td><td>Oakland</td><td>High St and Brookdale Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405727">View Incident</a></li>
+<tr class="even"><td>2405727</td><td>September 2, 2022</td><td>California</td><td>Oakland</td><td>High St and Brookdale Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405727">View Incident</a></li>
 <li class="1 last"><a href="https://www.eastbaytimes.com/2022/09/03/drive-by-shootings-leave-three-men-wounded-in-oakland/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2404880</td><td>September 2, 2022</td><td>Texas</td><td>Houston</td><td>1800 El Paseo St</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404880">View Incident</a></li>
+<tr class="odd"><td>2404880</td><td>September 2, 2022</td><td>Texas</td><td>Houston</td><td>1800 El Paseo St</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404880">View Incident</a></li>
 <li class="1 last"><a href="https://www.click2houston.com/news/local/2022/09/02/suspect-killed-by-us-marshals-task-force-members-in-shooting-at-apartment-complex-near-nrg-stadium-hpd/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2405722</td><td>September 2, 2022</td><td>California</td><td>Oakland</td><td>2000 block of 96th Ave</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405722">View Incident</a></li>
+<tr class="even"><td>2405722</td><td>September 2, 2022</td><td>California</td><td>Oakland</td><td>2000 block of 96th Ave</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405722">View Incident</a></li>
 <li class="1 last"><a href="https://www.eastbaytimes.com/2022/09/03/drive-by-shootings-leave-three-men-wounded-in-oakland/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405632</td><td>September 2, 2022</td><td>Tennessee</td><td>Chattanooga</td><td>100 block of Talley Rd</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405632">View Incident</a></li>
+<tr class="odd"><td>2405632</td><td>September 2, 2022</td><td>Tennessee</td><td>Chattanooga</td><td>100 block of Talley Rd</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405632">View Incident</a></li>
 <li class="1 last"><a href="https://www.wdef.com/two-shootings-a-few-miles-from-each-other-leave-three-men-suffering-from-minor-injuries/" target="_blank">View Source</a></li>
 </ul></td> </tr>
+
 <tr class="odd"><td>2404662</td><td>September 2, 2022</td><td>Georgia</td><td>Forest Park</td><td>Charles W Grant Pkwy and Old Dixie Rd</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404662">View Incident</a></li>
 <li class="1 last"><a href="https://gbi.georgia.gov/press-releases/2022-09-02/gbi-investigates-officer-involved-shooting-clayton-county" target="_blank">View Source</a></li>
 </ul></td> </tr>
@@ -378,10 +512,6 @@
 <tr class="odd"><td>2404703</td><td>September 2, 2022</td><td>Georgia</td><td>Columbus</td><td>33rd St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404703">View Incident</a></li>
 <li class="1 last"><a href="https://www.wtvm.com/2022/09/02/shooting-33rd-street-columbus-leaves-1-injured/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-
-<tr class="odd"><td>2405591</td><td>September 2, 2022</td><td>Pennsylvania</td><td>Duquesne</td><td>700 block of Priscilla Ave</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405591">View Incident</a></li>
-<li class="1 last"><a href="https://www.cbsnews.com/pittsburgh/news/1-dead-duquesne-shooting/" target="_blank">View Source</a></li>
-</ul></td> </tr>
 <tr class="even"><td>2405587</td><td>September 2, 2022</td><td>Maryland</td><td>District Heights</td><td>3700 block of Donnell Dr</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405587">View Incident</a></li>
 <li class="1 last"><a href="https://twitter.com/alanhenney/status/1565795587777302531" target="_blank">View Source</a></li>
 </ul></td> </tr>
@@ -400,47 +530,45 @@
 <tr class="odd"><td>2405543</td><td>September 2, 2022</td><td>Maryland</td><td>Upper Marlboro</td><td>3600 block of Ritchie Marlboro Rd</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405543">View Incident</a></li>
 <li class="1 last"><a href="https://wjla.com/news/local/one-woman-injured-possible-road-rage-shooting-upper-marlboro-maryland-police-prince-georges-county-police-crime-dmv-dc" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405541</td><td>September 2, 2022</td><td>Alaska</td><td>Wasilla</td><td>N/A</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405541">View Incident</a></li>
+
+<tr class="odd"><td>2405541</td><td>September 2, 2022</td><td>Alaska</td><td>Wasilla</td><td>N/A</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405541">View Incident</a></li>
 <li class="1 last"><a href="https://www.frontiersman.com/news/wasilla-man-dead-after-officer-involved-shooting/article_f2c69a2a-2b53-11ed-a789-eb56601475bf.html" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2404660</td><td>September 2, 2022</td><td>Georgia</td><td>Buford</td><td>1705 Mall of Georgia Blvd</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404660">View Incident</a></li>
+<tr class="even"><td>2404660</td><td>September 2, 2022</td><td>Georgia</td><td>Buford</td><td>1705 Mall of Georgia Blvd</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404660">View Incident</a></li>
 <li class="1 last"><a href="https://www.wsbtv.com/news/local/thief-shot-by-officer-after-stabbing-smashing-counters-inside-macys-mall-georgia-police-say/2CO5WHLVSJCUTJS3ZRBOPFQUTU/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2404651</td><td>September 2, 2022</td><td>Pennsylvania</td><td>Pittsburgh</td><td>9th St and Fort Duquesne Blvd</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404651">View Incident</a></li>
+<tr class="odd"><td>2404651</td><td>September 2, 2022</td><td>Pennsylvania</td><td>Pittsburgh</td><td>9th St and Fort Duquesne Blvd</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404651">View Incident</a></li>
 <li class="1 last"><a href="https://www.wpxi.com/news/local/man-found-shot-downtown-pittsburgh/YKMZJEKQZNAJDC6GXKNDZZR4EY/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2405534</td><td>September 2, 2022</td><td>Pennsylvania</td><td>Philadelphia</td><td>6800 block of Forrest Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405534">View Incident</a></li>
+<tr class="even"><td>2405534</td><td>September 2, 2022</td><td>Pennsylvania</td><td>Philadelphia</td><td>6800 block of Forrest Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405534">View Incident</a></li>
 <li class="1 last"><a href="https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405500</td><td>September 2, 2022</td><td>Indiana</td><td>Parke (county)</td><td>Hideaway Ln</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405500">View Incident</a></li>
+<tr class="odd"><td>2405500</td><td>September 2, 2022</td><td>Indiana</td><td>Parke (county)</td><td>Hideaway Ln</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405500">View Incident</a></li>
 <li class="1 last"><a href="https://www.mywabashvalley.com/news/local-news/one-charged-with-murder-in-parke-county/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2405467</td><td>September 2, 2022</td><td>Maryland</td><td>Baltimore</td><td>3500 Hillen Rd</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405467">View Incident</a></li>
+<tr class="even"><td>2405467</td><td>September 2, 2022</td><td>Maryland</td><td>Baltimore</td><td>3500 Hillen Rd</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405467">View Incident</a></li>
 <li class="1 last"><a href="https://foxbaltimore.com/news/local/baltimore-city-school-police-investigating-shooting-outside-mervo-high-school" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405293</td><td>September 2, 2022</td><td>California</td><td>Los Angeles</td><td>1800 block of W 108th St</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405293">View Incident</a></li>
+<tr class="odd"><td>2405293</td><td>September 2, 2022</td><td>California</td><td>Los Angeles</td><td>1800 block of W 108th St</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405293">View Incident</a></li>
 <li class="1 last"><a href="https://www.cbsnews.com/losangeles/news/armed-man-shot-and-killed-by-la-deputy-near-inglewood/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2405483</td><td>September 2, 2022</td><td>Maryland</td><td>Windsor Mill</td><td>Washington Ave and Liberty Rd</td><td>1</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405483">View Incident</a></li>
+<tr class="even"><td>2405483</td><td>September 2, 2022</td><td>Maryland</td><td>Windsor Mill</td><td>Washington Ave and Liberty Rd</td><td>1</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405483">View Incident</a></li>
 <li class="1 last"><a href="https://www.baltimoresun.com/news/crime/bs-md-co-cr-pikesville-unconscious-gunshot-20220903-vueika3jsffd3gj6faggouzjxq-story.html" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405474</td><td>September 2, 2022</td><td>Indiana</td><td>Lake Station</td><td>2500 block of Morgan St</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405474">View Incident</a></li>
+<tr class="odd"><td>2405474</td><td>September 2, 2022</td><td>Indiana</td><td>Lake Station</td><td>2500 block of Morgan St</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405474">View Incident</a></li>
 <li class="1 last"><a href="https://regionnewssource.org/one-dead-after-domestic-shooting-in-lake-station/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2404464</td><td>September 2, 2022</td><td>District of Columbia</td><td>Washington</td><td>Minnesota Ave SE and 18th St SE</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404464">View Incident</a></li>
+<tr class="even"><td>2404464</td><td>September 2, 2022</td><td>District of Columbia</td><td>Washington</td><td>Minnesota Ave SE and 18th St SE</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404464">View Incident</a></li>
 <li class="1 last"><a href="https://www.dcnewsnow.com/news/local-news/washington-dc/man-shot-in-head-on-stoop-of-his-apartment-in-dc/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405440</td><td>September 2, 2022</td><td>Indiana</td><td>Indianapolis</td><td>S Hunter Rd and Southeastern Ave</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405440">View Incident</a></li>
+<tr class="odd"><td>2405440</td><td>September 2, 2022</td><td>Indiana</td><td>Indianapolis</td><td>S Hunter Rd and Southeastern Ave</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405440">View Incident</a></li>
 <li class="1 last"><a href="https://www.wthr.com/article/news/local/1-person-critically-injured-in-west-indianapolis-shooting/531-7eee9d7a-f648-4531-9d8c-83d4bb9c1ca0" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2404548</td><td>September 2, 2022</td><td>New York</td><td>Syracuse</td><td>1300 block of Butternut St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404548">View Incident</a></li>
+<tr class="even"><td>2404548</td><td>September 2, 2022</td><td>New York</td><td>Syracuse</td><td>1300 block of Butternut St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404548">View Incident</a></li>
 <li class="1 last"><a href="http://1300 block of Butternut Street" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405438</td><td>September 2, 2022</td><td>Indiana</td><td>Indianapolis</td><td>8400 block of Southeastern Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405438">View Incident</a></li>
+<tr class="odd"><td>2405438</td><td>September 2, 2022</td><td>Indiana</td><td>Indianapolis</td><td>8400 block of Southeastern Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405438">View Incident</a></li>
 <li class="1 last"><a href="https://www.wthr.com/article/news/local/1-person-critically-injured-in-west-indianapolis-shooting/531-7eee9d7a-f648-4531-9d8c-83d4bb9c1ca0" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="odd"><td>2405418</td><td>September 2, 2022</td><td>North Carolina</td><td>Raleigh</td><td>900 block of Skinner Dr</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405418">View Incident</a></li>
-<li class="1 last"><a href="https://www.wral.com/huge-police-presence-after-woman-found-shot-in-raleigh-neighborhood/20446339/" target="_blank">View Source</a></li>
 </ul></td> </tr>
 <tr class="even"><td>2404541</td><td>September 2, 2022</td><td>Florida</td><td>Jacksonville</td><td>5000 Kingsbury St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404541">View Incident</a></li>
 <li class="1 last"><a href="https://www.firstcoastnews.com/article/news/crime/one-seriously-injured-in-murray-hill-area-shooting/77-564c657a-4ddd-4cc3-b420-0b1636887528" target="_blank">View Source</a></li>
@@ -454,83 +582,85 @@
 <tr class="odd"><td>2405413</td><td>September 2, 2022</td><td>North Carolina</td><td>Rocky Mount</td><td>300 block of Carolina Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405413">View Incident</a></li>
 <li class="1 last"><a href="https://www.cbs17.com/news/local-news/rocky-mount-police-investigating-after-one-hurt-in-shooting/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-
-<tr class="odd"><td>2405408</td><td>September 2, 2022</td><td>Illinois</td><td>Chicago</td><td>N/A</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405408">View Incident</a></li>
+<tr class="even"><td>2405408</td><td>September 2, 2022</td><td>Illinois</td><td>Chicago</td><td>N/A</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405408">View Incident</a></li>
 <li class="1 last"><a href="https://home.chicagopolice.org/media_incident/2300-block-of-e-93rd-st-on-september-02-2022-at-approx-1030-pm-4th-district/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405410</td><td>September 2, 2022</td><td>North Carolina</td><td>Rocky Mount</td><td>500 block of Mullins St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405410">View Incident</a></li>
+<tr class="odd"><td>2405410</td><td>September 2, 2022</td><td>North Carolina</td><td>Rocky Mount</td><td>500 block of Mullins St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405410">View Incident</a></li>
 <li class="1 last"><a href="https://www.cbs17.com/news/local-news/pregnant-woman-shot-in-stomach-in-rocky-mount-police-say/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2405403</td><td>September 2, 2022</td><td>Illinois</td><td>Chicago</td><td>4200 block of S Wells St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405403">View Incident</a></li>
+<tr class="even"><td>2405403</td><td>September 2, 2022</td><td>Illinois</td><td>Chicago</td><td>4200 block of S Wells St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405403">View Incident</a></li>
 <li class="1 last"><a href="https://home.chicagopolice.org/media_incident/4200-block-of-s-wells-on-september-02-2022-at-approx-1131-pm-9th-district/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405400</td><td>September 2, 2022</td><td>Illinois</td><td>Chicago</td><td>3700 block of S Langley</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405400">View Incident</a></li>
+<tr class="odd"><td>2405400</td><td>September 2, 2022</td><td>Illinois</td><td>Chicago</td><td>3700 block of S Langley</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405400">View Incident</a></li>
 <li class="1 last"><a href="https://home.chicagopolice.org/media_incident/3700-block-of-s-langley-on-september-02-2022-at-approx-1130-pm-2nd-district/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2405397</td><td>September 2, 2022</td><td>Illinois</td><td>Chicago</td><td>2500 block of E 78th St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405397">View Incident</a></li>
+<tr class="even"><td>2405397</td><td>September 2, 2022</td><td>Illinois</td><td>Chicago</td><td>2500 block of E 78th St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405397">View Incident</a></li>
 <li class="1 last"><a href="https://home.chicagopolice.org/media_incident/2500-block-of-e-78th-st-on-september-02-2022-at-approx-1021-pm-4th-district/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405386</td><td>September 2, 2022</td><td>Illinois</td><td>Chicago</td><td>2900 block of S Union Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405386">View Incident</a></li>
+<tr class="odd"><td>2405386</td><td>September 2, 2022</td><td>Illinois</td><td>Chicago</td><td>2900 block of S Union Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405386">View Incident</a></li>
 <li class="1 last"><a href="https://home.chicagopolice.org/media_incident/2900-block-of-south-union-on-02-sep-22-at-approx-732-p-m-009th-district/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2405393</td><td>September 2, 2022</td><td>North Carolina</td><td>Charlotte</td><td>Farm Pond Ln and Albemarle Rd</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405393">View Incident</a></li>
+<tr class="even"><td>2405393</td><td>September 2, 2022</td><td>North Carolina</td><td>Charlotte</td><td>Farm Pond Ln and Albemarle Rd</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405393">View Incident</a></li>
 <li class="1 last"><a href="https://www.wcnc.com/article/news/crime/person-hospitalized-after-shooting-in-east-charlotte-medic-confirms/275-cbd607cb-11f3-4bb9-aaec-812c0d1ed131" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2404520</td><td>September 2, 2022</td><td>Florida</td><td>Port Orange</td><td>3635 Nantucket Island Dr</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404520">View Incident</a></li>
+<tr class="odd"><td>2404520</td><td>September 2, 2022</td><td>Florida</td><td>Port Orange</td><td>3635 Nantucket Island Dr</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404520">View Incident</a></li>
 <li class="1 last"><a href="https://www.news-journalonline.com/story/news/crime/2022/09/02/port-orange-police-investigate-fatal-shooting-man/7970799001/" target="_blank">View Source</a></li>
 </ul></td> </tr>
+
 <tr class="odd"><td>2405389</td><td>September 2, 2022</td><td>North Carolina</td><td>Gastonia</td><td>200 block of N King St</td><td>1</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405389">View Incident</a></li>
 <li class="1 last"><a href="https://www.wcnc.com/article/news/crime/3-shot-1-dead-in-gastonia-shooting-friday-night-police-say/275-02ac11f2-07c6-40ae-8878-6f281ebf0496" target="_blank">View Source</a></li>
 </ul></td> </tr>
 <tr class="even"><td>2404514</td><td>September 2, 2022</td><td>New York</td><td>Albany</td><td>Lark Dr</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404514">View Incident</a></li>
 <li class="1 last"><a href="https://www.news10.com/news/albany-county/albany-police-woman-shot-in-back-on-lark-drive/?utm_medium=referral&amp;utm_campaign=socialflow&amp;utm_source=t.co" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2404509</td><td>September 2, 2022</td><td>New York</td><td>Rochester</td><td>North St and Roycroft Dr</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404509">View Incident</a></li>
+<tr class="odd"><td>2406217</td><td>September 2, 2022</td><td>Florida</td><td>Deland</td><td>260 E Euclid Ave</td><td>0</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406217">View Incident</a></li>
+<li class="1 last"><a href="https://www.wesh.com/article/police-search-for-teen-accused-of-pulling-out-gun-at-deland-high-school-football-game/41074580" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>2404509</td><td>September 2, 2022</td><td>New York</td><td>Rochester</td><td>North St and Roycroft Dr</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404509">View Incident</a></li>
 <li class="1 last"><a href="https://www.rochesterfirst.com/news/rpd/rochester-police-investigate-male-shot-on-north-st-and-roycroft-dr/?utm_source=t.co&amp;utm_campaign=socialflow&amp;utm_medium=referral" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405384</td><td>September 2, 2022</td><td>Georgia</td><td>Atlanta</td><td>1986 North Ave NW</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405384">View Incident</a></li>
+<tr class="odd"><td>2405384</td><td>September 2, 2022</td><td>Georgia</td><td>Atlanta</td><td>1986 North Ave NW</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405384">View Incident</a></li>
 <li class="1 last"><a href="https://www.atlantapd.org/Home/Components/News/News/3095/71" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2405382</td><td>September 2, 2022</td><td>Georgia</td><td>Atlanta</td><td>2766 Metropolitan Pkwy</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405382">View Incident</a></li>
+<tr class="even"><td>2405382</td><td>September 2, 2022</td><td>Georgia</td><td>Atlanta</td><td>2766 Metropolitan Pkwy</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405382">View Incident</a></li>
 <li class="1 last"><a href="https://www.atlantapd.org/Home/Components/News/News/3093/71" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2404493</td><td>September 2, 2022</td><td>Florida</td><td>Royal Palm Beach</td><td>10342 Fox Trail Rd S</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404493">View Incident</a></li>
+<tr class="odd"><td>2404493</td><td>September 2, 2022</td><td>Florida</td><td>Royal Palm Beach</td><td>10342 Fox Trail Rd S</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404493">View Incident</a></li>
 <li class="1 last"><a href="https://www.wptv.com/news/region-c-palm-beach-county/royal-palm-beach/child-shot-overnight-in-royal-palm-beach" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2404495</td><td>September 2, 2022</td><td>New York</td><td>Rochester</td><td>50 Beach Ave</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404495">View Incident</a></li>
+<tr class="even"><td>2404495</td><td>September 2, 2022</td><td>New York</td><td>Rochester</td><td>50 Beach Ave</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404495">View Incident</a></li>
 <li class="1 last"><a href="https://www.whec.com/top-news/police-investigation-at-parking-lot-of-ontario-beach-park/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2404488</td><td>September 2, 2022</td><td>Illinois</td><td>Chicago</td><td>1900 block of W 87th St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404488">View Incident</a></li>
+<tr class="odd"><td>2404488</td><td>September 2, 2022</td><td>Illinois</td><td>Chicago</td><td>1900 block of W 87th St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404488">View Incident</a></li>
 <li class="1 last"><a href="https://www.fox32chicago.com/news/woman-shot-in-leg-in-chicagos-auburn-gresham-neighboorhood" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2405360</td><td>September 2, 2022</td><td>Oregon</td><td>Portland</td><td>3800 Block of NE 65th Ave</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405360">View Incident</a></li>
+<tr class="even"><td>2405360</td><td>September 2, 2022</td><td>Oregon</td><td>Portland</td><td>3800 Block of NE 65th Ave</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405360">View Incident</a></li>
 <li class="1 last"><a href="https://www.portlandoregon.gov/police/news/read.cfm?id=442491" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405356</td><td>September 2, 2022</td><td>Florida</td><td>Tallahassee</td><td>2900 Block of Mahan Dr</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405356">View Incident</a></li>
+<tr class="odd"><td>2405356</td><td>September 2, 2022</td><td>Florida</td><td>Tallahassee</td><td>2900 Block of Mahan Dr</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405356">View Incident</a></li>
 <li class="1 last"><a href="https://www.wctv.tv/2022/09/03/tpd-investigate-shooting-mahan-drive/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2405349</td><td>September 2, 2022</td><td>Florida</td><td>Panama City</td><td>One Seaport Dr</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405349">View Incident</a></li>
+<tr class="even"><td>2405349</td><td>September 2, 2022</td><td>Florida</td><td>Panama City</td><td>One Seaport Dr</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405349">View Incident</a></li>
 <li class="1 last"><a href="https://www.mypanhandle.com/news/local-news/shooting-reported-at-panama-city-port/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405336</td><td>September 2, 2022</td><td>Illinois</td><td>Chicago</td><td>I-94 and W 26th St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405336">View Incident</a></li>
+<tr class="odd"><td>2405336</td><td>September 2, 2022</td><td>Illinois</td><td>Chicago</td><td>I-94 and W 26th St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405336">View Incident</a></li>
 <li class="1 last"><a href="https://www.fox32chicago.com/news/suspect-leads-illinois-state-police-on-pursuit-after-shooting-person-on-i-94" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2405332</td><td>September 2, 2022</td><td>Illinois</td><td>Chicago</td><td>3600 block of W 85th Pl</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405332">View Incident</a></li>
+<tr class="even"><td>2405332</td><td>September 2, 2022</td><td>Illinois</td><td>Chicago</td><td>3600 block of W 85th Pl</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405332">View Incident</a></li>
 <li class="1 last"><a href="https://www.fox32chicago.com/news/2-shot-while-hanging-out-in-garage-on-chicagos-southwest-side" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405325</td><td>September 2, 2022</td><td>Illinois</td><td>Chicago</td><td>4400 block of W Jackson Blvd</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405325">View Incident</a></li>
+<tr class="odd"><td>2405325</td><td>September 2, 2022</td><td>Illinois</td><td>Chicago</td><td>4400 block of W Jackson Blvd</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405325">View Incident</a></li>
 <li class="1 last"><a href="https://www.fox32chicago.com/news/man-fatally-shot-by-multiple-offenders-on-chicagos-west-side" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2405319</td><td>September 2, 2022</td><td>Florida</td><td>Jacksonville</td><td>1300 block of Rushing St</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405319">View Incident</a></li>
+<tr class="even"><td>2405319</td><td>September 2, 2022</td><td>Florida</td><td>Jacksonville</td><td>1300 block of Rushing St</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405319">View Incident</a></li>
 <li class="1 last"><a href="https://www.actionnewsjax.com/news/local/shooting-rushing-street-ends-deadly/JXPYYBYO25DYFFZOKAIE3D3YZE/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405305</td><td>September 2, 2022</td><td>Illinois</td><td>Chicago</td><td>7900 block of S Crandon Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405305">View Incident</a></li>
+<tr class="odd"><td>2405305</td><td>September 2, 2022</td><td>Illinois</td><td>Chicago</td><td>7900 block of S Crandon Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405305">View Incident</a></li>
 <li class="1 last"><a href="https://www.fox32chicago.com/news/4-suspects-fire-nearly-45-rounds-at-15-year-old-boy-on-chicagos-south-side" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2405298</td><td>September 2, 2022</td><td>New York</td><td>Syracuse</td><td>Park Ave and Sackett St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405298">View Incident</a></li>
+<tr class="even"><td>2405298</td><td>September 2, 2022</td><td>New York</td><td>Syracuse</td><td>Park Ave and Sackett St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405298">View Incident</a></li>
 <li class="1 last"><a href="https://www.syracuse.com/crime/2022/09/man-shot-multiple-times-near-syracuse-school.html?utm_campaign=syracuse_sf&amp;utm_medium=social&amp;utm_source=twitter" target="_blank">View Source</a></li>
 </ul></td> </tr>
-
 <tr class="odd"><td>2405192</td><td>September 2, 2022</td><td>Pennsylvania</td><td>Duquesne</td><td>700 block of Priscilla Ave</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405192">View Incident</a></li>
 <li class="1 last"><a href="https://triblive.com/local/police-probe-death-of-woman-shot-inside-car-in-duquesne/" target="_blank">View Source</a></li>
 </ul></td> </tr>
@@ -543,14 +673,30 @@
 <tr class="even"><td>2405277</td><td>September 2, 2022</td><td>Ohio</td><td>Ashland</td><td>1200 block of Co Rd 1153</td><td>1</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405277">View Incident</a></li>
 <li class="1 last"><a href="https://www.ashlandsource.com/news/one-dead-one-injured-after-shooting-near-brookside-west-park/article_bf7f608c-2b32-11ed-802f-9bf2a584c72b.html" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2404930</td><td>September 2, 2022</td><td>New York</td><td>Brooklyn</td><td>223 Russell St</td><td>0</td><td>4</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404930">View Incident</a></li>
+<tr class="odd"><td>2406085</td><td>September 2, 2022</td><td>New Jersey</td><td>Englewood</td><td>Humphrey St and W Linden Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406085">View Incident</a></li>
+<li class="1 last"><a href="https://www.nj.com/bergen/2022/09/police-investigating-friday-night-shooting-in-bergen-county.html" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>2404930</td><td>September 2, 2022</td><td>New York</td><td>Brooklyn</td><td>223 Russell St</td><td>0</td><td>4</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404930">View Incident</a></li>
 <li class="1 last"><a href="https://nypost.com/2022/09/02/nyc-biker-club-shooting-leave-4-injured-nypd/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405254</td><td>September 2, 2022</td><td>California</td><td>Sacramento</td><td>Acoma St and Arden Way</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405254">View Incident</a></li>
+<tr class="odd"><td>2405254</td><td>September 2, 2022</td><td>California</td><td>Sacramento</td><td>Acoma St and Arden Way</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405254">View Incident</a></li>
 <li class="1 last"><a href="https://www.cbsnews.com/sacramento/news/woman-hospitalized-man-suffers-graze-wound-in-sacramento-shooting/" target="_blank">View Source</a></li>
 </ul></td> </tr>
+
 <tr class="odd"><td>2405207</td><td>September 2, 2022</td><td>Alabama</td><td>Birmingham</td><td>Arkadelphia Rd and 10th Ave W</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405207">View Incident</a></li>
-<li class="1 last"><a href="https://abc3340.com/news/local/one-dead-two-juveniles-to-hospital-after-shooting-car-crash-on-arkadelphia-road-birmingham-police-department-homicide-investigation-vehicle-wreck-fire-rescue-jefferson-county" target="_blank">View Source</a></li>
+<li class="1 last"><a href="https://www.wvtm13.com/article/birmingham-shooting-arkadelphia-road/41070121" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>2405418</td><td>September 2, 2022</td><td>North Carolina</td><td>Raleigh</td><td>900 block of Skinner Dr</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405418">View Incident</a></li>
+<li class="1 last"><a href="https://www.wral.com/man-arrested-after-shooting-killing-woman-in-raleigh/20446339/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>2406049</td><td>September 2, 2022</td><td>Louisiana</td><td>New Orleans</td><td>6100 block of Franklin Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406049">View Incident</a></li>
+<li class="1 last"><a href="https://wgno.com/news/louisiana/orleans-parish/nopd-search-for-suspect-in-friday-gentilly-shooting-victim-hospitalized/" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="even"><td>2406040</td><td>September 2, 2022</td><td>Georgia</td><td>Milledgeville</td><td>Union Hill Church Rd</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406040">View Incident</a></li>
+<li class="1 last"><a href="https://gbi.georgia.gov/press-releases/2022-09-03/gbi-investigates-officer-involved-shooting-baldwin-county" target="_blank">View Source</a></li>
+</ul></td> </tr>
+<tr class="odd"><td>2406037</td><td>September 2, 2022</td><td>Mississippi</td><td>Jackson</td><td>14th Ave and 21st St N</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2406037">View Incident</a></li>
+<li class="1 last"><a href="https://cdispatch.com/news/2022-09-03/man-shot-after-declining-weed/" target="_blank">View Source</a></li>
 </ul></td> </tr>
 <tr class="even"><td>2405087</td><td>September 2, 2022</td><td>Texas</td><td>El Paso</td><td>4716 Hondo Pass</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405087">View Incident</a></li>
 <li class="1 last"><a href="https://www.ktsm.com/news/eppd-officer-involved-shooting-reported-in-northeast-el-paso/" target="_blank">View Source</a></li>
@@ -606,13 +752,13 @@
 <tr class="odd"><td>2404984</td><td>September 1, 2022</td><td>Michigan</td><td>Auburn Hills</td><td>2800 Waukegan St</td><td>0</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404984">View Incident</a></li>
 <li class="1 last"><a href="https://www.clickondetroit.com/news/local/2022/09/02/17-year-old-arrested-for-bringing-gun-to-high-school-football-game-in-auburn-hills-police-say/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-
-<tr class="odd"><td>2403967</td><td>September 1, 2022</td><td>Virginia</td><td>Portsmouth</td><td>1000 block of Fayette St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403967">View Incident</a></li>
+<tr class="even"><td>2403967</td><td>September 1, 2022</td><td>Virginia</td><td>Portsmouth</td><td>1000 block of Fayette St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403967">View Incident</a></li>
 <li class="1 last"><a href="https://www.13newsnow.com/article/news/crime/portsmouth-police-man-shot-fayette-street/291-adb895a2-52a2-4cc7-8934-8684264d8441" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405097</td><td>September 1, 2022</td><td>Ohio</td><td>Akron</td><td>1097 Battles Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405097">View Incident</a></li>
+<tr class="odd"><td>2405097</td><td>September 1, 2022</td><td>Ohio</td><td>Akron</td><td>1097 Battles Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405097">View Incident</a></li>
 <li class="1 last"><a href="https://www.cleveland19.com/2022/09/02/police-teens-ages-13-16-accused-shooting-man-during-robbery-akron-park/" target="_blank">View Source</a></li>
 </ul></td> </tr>
+
 <tr class="odd"><td>2404316</td><td>September 1, 2022</td><td>Tennessee</td><td>Hixson</td><td>5423 Cassandra Smith Rd</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404316">View Incident</a></li>
 <li class="1 last"><a href="https://www.wdef.com/witness-to-shooting-on-dove-seasons-first-day-says-shooter-lacked-remorse-looking-to-exit-area/" target="_blank">View Source</a></li>
 </ul></td> </tr>
@@ -634,55 +780,51 @@
 <tr class="odd"><td>2405852</td><td>September 1, 2022</td><td>California</td><td>Rancho Cucamonga</td><td>Foothill Blvd and Haven Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405852">View Incident</a></li>
 <li class="1 last"><a href="https://www.fontanaheraldnews.com/news/inland_empire_news/road-rage-incident-leads-to-a-person-being-shot-in-rancho-cucamonga-on-sept-1/article_260f95ec-2aed-11ed-8efb-2bac95902eb9.html" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2404102</td><td>September 1, 2022</td><td>North Carolina</td><td>Greensboro</td><td>Randleman Rd</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404102">View Incident</a></li>
-<li class="1 last"><a href="https://myfox8.com/news/north-carolina/greensboro/person-seriously-injured-in-randleman-road-shooting-greensboro-police-s/" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="odd"><td>2404374</td><td>September 1, 2022</td><td>Kentucky</td><td>Louisville</td><td>1500 block of Earl Ave</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404374">View Incident</a></li>
+<tr class="even"><td>2404374</td><td>September 1, 2022</td><td>Kentucky</td><td>Louisville</td><td>1500 block of Earl Ave</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404374">View Incident</a></li>
 <li class="1 last"><a href="https://www.whas11.com/article/news/crime/fatal-shooting-taylor-berry-neighborhood-one-dead/417-6b60d84a-bed1-4283-aa2d-ec4bf48d1344" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2404080</td><td>September 1, 2022</td><td>North Carolina</td><td>Charlotte</td><td>320 W Carson Blvd</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404080">View Incident</a></li>
+<tr class="odd"><td>2404080</td><td>September 1, 2022</td><td>North Carolina</td><td>Charlotte</td><td>320 W Carson Blvd</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404080">View Incident</a></li>
 <li class="1 last"><a href="https://www.fox46.com/charlotte/man-seriously-injured-in-shooting-at-uptown-charlotte-hookah-bar-cmpd/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2404206</td><td>September 1, 2022</td><td>Kentucky</td><td>Lexington</td><td>1700 block of Jennifer Rd</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404206">View Incident</a></li>
+<tr class="even"><td>2404206</td><td>September 1, 2022</td><td>Kentucky</td><td>Lexington</td><td>1700 block of Jennifer Rd</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404206">View Incident</a></li>
 <li class="1 last"><a href="https://www.wtvq.com/ksp-investigating-after-2-lexington-officers-shoot-armed-person-accused-of-stealing-car/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2404993</td><td>September 1, 2022</td><td>Michigan</td><td>Detroit</td><td>Cherrylawn St and Santa Clara St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404993">View Incident</a></li>
+<tr class="odd"><td>2404993</td><td>September 1, 2022</td><td>Michigan</td><td>Detroit</td><td>Cherrylawn St and Santa Clara St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404993">View Incident</a></li>
 <li class="1 last"><a href="https://www.fox2detroit.com/news/man-running-from-detroit-police-shot-by-woman-after-running-onto-her-porch" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2404452</td><td>September 1, 2022</td><td>Illinois</td><td>Rockford</td><td>4175 Linden Rd</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404452">View Incident</a></li>
+<tr class="even"><td>2404452</td><td>September 1, 2022</td><td>Illinois</td><td>Rockford</td><td>4175 Linden Rd</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404452">View Incident</a></li>
 <li class="1 last"><a href="https://www.wifr.com/2022/09/02/man-dies-thursday-night-after-officer-involved-shooting-rockford/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2404518</td><td>September 1, 2022</td><td>Iowa</td><td>Waterloo</td><td>200 block of Park Rd</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404518">View Incident</a></li>
+<tr class="odd"><td>2404518</td><td>September 1, 2022</td><td>Iowa</td><td>Waterloo</td><td>200 block of Park Rd</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404518">View Incident</a></li>
 <li class="1 last"><a href="https://wcfcourier.com/news/local/one-juvenile-injured-in-waterloo-shooting/article_822a5876-4f5c-5166-8945-21fe19611db2.html#tracking-source=mp-homepage" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2403524</td><td>September 1, 2022</td><td>Illinois</td><td>Chicago</td><td>S Wentworth Ave and W 71st St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403524">View Incident</a></li>
+<tr class="even"><td>2403524</td><td>September 1, 2022</td><td>Illinois</td><td>Chicago</td><td>S Wentworth Ave and W 71st St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403524">View Incident</a></li>
 <li class="1 last"><a href="https://www.nbcchicago.com/news/local/heroic-retired-chicago-officer-shot-trying-to-stop-armed-robbery-at-currency-exchange/2929680/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2404213</td><td>September 1, 2022</td><td>Missouri</td><td>Kansas City</td><td>3000 block of Harrison St</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404213">View Incident</a></li>
+<tr class="odd"><td>2404213</td><td>September 1, 2022</td><td>Missouri</td><td>Kansas City</td><td>3000 block of Harrison St</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404213">View Incident</a></li>
 <li class="1 last"><a href="https://www.kshb.com/news/crime/investigation-of-fatal-shooting-thursday-leads-to-charges-in-october-2021-murder" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2404978</td><td>September 1, 2022</td><td>Utah</td><td>Salt Lake City</td><td>850 S 200 W</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404978">View Incident</a></li>
+<tr class="even"><td>2404978</td><td>September 1, 2022</td><td>Utah</td><td>Salt Lake City</td><td>850 S 200 W</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404978">View Incident</a></li>
 <li class="1 last"><a href="https://www.ksl.com/article/50468482/uta-officer-shoots-man-armed-with-a-knife-police-say" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2404376</td><td>September 1, 2022</td><td>Kentucky</td><td>Louisville</td><td>4300 block of Vermont Ave</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404376">View Incident</a></li>
+<tr class="odd"><td>2404376</td><td>September 1, 2022</td><td>Kentucky</td><td>Louisville</td><td>4300 block of Vermont Ave</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404376">View Incident</a></li>
 <li class="1 last"><a href="https://www.whas11.com/article/news/local/two-louisville-men-hospital-gunshot-wounds-shooting-shawnee-vermont-avenue/417-a15ba825-43fc-451c-9b75-89a76b2777f4" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2404043</td><td>September 1, 2022</td><td>Illinois</td><td>Chicago</td><td>1100 block of S Francisco Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404043">View Incident</a></li>
+<tr class="even"><td>2404043</td><td>September 1, 2022</td><td>Illinois</td><td>Chicago</td><td>1100 block of S Francisco Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404043">View Incident</a></li>
 <li class="1 last"><a href="https://wgntv.com/news/chicagocrime/cpd-woman-shot-on-west-side-porch-amid-crossfire-between-2-vehicles/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2404019</td><td>September 1, 2022</td><td>Kentucky</td><td>Phelps</td><td>11580 Phelps 632 Rd</td><td>0</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404019">View Incident</a></li>
+<tr class="odd"><td>2404019</td><td>September 1, 2022</td><td>Kentucky</td><td>Phelps</td><td>11580 Phelps 632 Rd</td><td>0</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404019">View Incident</a></li>
 <li class="1 last"><a href="https://www.wklw.com/2022/09/02/pike-co-man-arrested-after-deputy-finds-him-with-gun-at-school/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2404946</td><td>September 1, 2022</td><td>Virginia</td><td>Newport News</td><td>2200 block of Wickham Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404946">View Incident</a></li>
+<tr class="even"><td>2404946</td><td>September 1, 2022</td><td>Virginia</td><td>Newport News</td><td>2200 block of Wickham Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404946">View Incident</a></li>
 <li class="1 last"><a href="https://www.wtkr.com/news/newport-news-police-investigate-after-teenage-boy-shot-outside-a-business-on-wickham-avenue" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2403603</td><td>September 1, 2022</td><td>New York</td><td>New York (Manhattan)</td><td>728 E 13th St</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403603">View Incident</a></li>
+<tr class="odd"><td>2403603</td><td>September 1, 2022</td><td>New York</td><td>New York (Manhattan)</td><td>728 E 13th St</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403603">View Incident</a></li>
 <li class="1 last"><a href="https://abc7ny.com/shooting-east-village-man-shot-13th-street/12186563/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2403842</td><td>September 1, 2022</td><td>Wisconsin</td><td>Milwaukee (Brown Deer)</td><td>8054 N 62nd St</td><td>2</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403842">View Incident</a></li>
+<tr class="even"><td>2403842</td><td>September 1, 2022</td><td>Wisconsin</td><td>Milwaukee (Brown Deer)</td><td>8054 N 62nd St</td><td>2</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403842">View Incident</a></li>
 <li class="1 last"><a href="https://www.fox6now.com/news/brown-deer-police-2-shooting-victims-62nd-tower" target="_blank">View Source</a></li>
 </ul></td> </tr>
-
 <tr class="odd"><td>2404935</td><td>September 1, 2022</td><td>Texas</td><td>Midland</td><td>1500 block of E Illinois Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404935">View Incident</a></li>
 <li class="1 last"><a href="https://www.newswest9.com/article/news/local/midland-police-department-issues-arrest-warrant/513-acbd7fb2-6d02-446a-8bb2-518fac45ad32" target="_blank">View Source</a></li>
 </ul></td> </tr>
@@ -692,73 +834,73 @@
 <tr class="odd"><td>2403978</td><td>September 1, 2022</td><td>Texas</td><td>Pasadena</td><td>1404 S Houston Rd</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403978">View Incident</a></li>
 <li class="1 last"><a href="https://abc13.com/texas-self-defense-killing-woman-fights-back-pasadena-workplace-shooting-armed/12186788/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2404911</td><td>September 1, 2022</td><td>Illinois</td><td>Waukegan</td><td>1814 Washington St</td><td>0</td><td>3</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404911">View Incident</a></li>
+
+<tr class="odd"><td>2404911</td><td>September 1, 2022</td><td>Illinois</td><td>Waukegan</td><td>1814 Washington St</td><td>0</td><td>3</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404911">View Incident</a></li>
 <li class="1 last"><a href="https://www.lakemchenryscanner.com/2022/09/02/3-people-hospitalized-after-drive-by-shooting-in-front-of-bar-in-waukegan/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2403972</td><td>September 1, 2022</td><td>Maryland</td><td>Baltimore</td><td>500 block of N Rose St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403972">View Incident</a></li>
+<tr class="even"><td>2403972</td><td>September 1, 2022</td><td>Maryland</td><td>Baltimore</td><td>500 block of N Rose St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403972">View Incident</a></li>
 <li class="1 last"><a href="https://foxbaltimore.com/news/local/man-suffers-from-gunshot-wounds-in-southeast-baltimore-09-01-2022" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2403969</td><td>September 1, 2022</td><td>Georgia</td><td>Albany</td><td>100 block of N Front St</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403969">View Incident</a></li>
+<tr class="odd"><td>2403969</td><td>September 1, 2022</td><td>Georgia</td><td>Albany</td><td>100 block of N Front St</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403969">View Incident</a></li>
 <li class="1 last"><a href="https://www.walb.com/2022/09/01/downtown-albany-shooting-under-investigation/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2404905</td><td>September 1, 2022</td><td>Pennsylvania</td><td>Carlisle</td><td>149 W Penn St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404905">View Incident</a></li>
+<tr class="even"><td>2404905</td><td>September 1, 2022</td><td>Pennsylvania</td><td>Carlisle</td><td>149 W Penn St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404905">View Incident</a></li>
 <li class="1 last"><a href="https://cumberland.crimewatchpa.com/carlislepd/5632/broadcasts/shooting-investigation" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2403962</td><td>September 1, 2022</td><td>Minnesota</td><td>Winona</td><td>850 block of E 12th St</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403962">View Incident</a></li>
+<tr class="odd"><td>2403962</td><td>September 1, 2022</td><td>Minnesota</td><td>Winona</td><td>850 block of E 12th St</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403962">View Incident</a></li>
 <li class="1 last"><a href="https://www.winonapost.com/news/wpd-23-year-old-died-by-suicide/article_fab058f6-2a1e-11ed-9ee5-ebab3bd73283.html" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2403951</td><td>September 1, 2022</td><td>Illinois</td><td>Joliet</td><td>400-block of E Benton St</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403951">View Incident</a></li>
+<tr class="even"><td>2403951</td><td>September 1, 2022</td><td>Illinois</td><td>Joliet</td><td>400-block of E Benton St</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403951">View Incident</a></li>
 <li class="1 last"><a href="https://abc7chicago.com/joliet-shooting-teens-shot-east-benton-street-police/12187549/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405729</td><td>September 1, 2022</td><td>South Carolina</td><td>Denmark</td><td>88 White Ln</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405729">View Incident</a></li>
+<tr class="odd"><td>2405729</td><td>September 1, 2022</td><td>South Carolina</td><td>Denmark</td><td>88 White Ln</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405729">View Incident</a></li>
 <li class="1 last"><a href="https://thetandd.com/news/local/crime-and-courts/man-shot-at-denmark-apartment-complex/article_8ce2ada1-e139-5831-bb5d-5078ac38a2dc.html" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2403928</td><td>September 1, 2022</td><td>Indiana</td><td>Anderson</td><td>1200 block of Jonathon Ct</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403928">View Incident</a></li>
+<tr class="even"><td>2403928</td><td>September 1, 2022</td><td>Indiana</td><td>Anderson</td><td>1200 block of Jonathon Ct</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403928">View Incident</a></li>
 <li class="1 last"><a href="https://www.wishtv.com/news/crime-watch-8/19-year-old-man-dies-in-accidental-shooting-in-anderson/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2404870</td><td>September 1, 2022</td><td>Texas</td><td>Houston</td><td>9550 Long Point</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404870">View Incident</a></li>
+<tr class="odd"><td>2404870</td><td>September 1, 2022</td><td>Texas</td><td>Houston</td><td>9550 Long Point</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404870">View Incident</a></li>
 <li class="1 last"><a href="https://www.click2houston.com/news/local/2022/09/02/2-women-shot-while-sitting-outside-apartment-in-west-houston-police-say/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2404834</td><td>September 1, 2022</td><td>Wisconsin</td><td>Milwaukee</td><td>N 95th St and W Thurston Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404834">View Incident</a></li>
+<tr class="even"><td>2404834</td><td>September 1, 2022</td><td>Wisconsin</td><td>Milwaukee</td><td>N 95th St and W Thurston Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404834">View Incident</a></li>
 <li class="1 last"><a href="https://www.tmj4.com/news/local-news/3-year-old-shot-16-year-old-arrested-milwaukee-police-say" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2405235</td><td>September 1, 2022</td><td>California</td><td>San Jose</td><td>1100 block of E William St</td><td>1</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405235">View Incident</a></li>
+<tr class="odd"><td>2405235</td><td>September 1, 2022</td><td>California</td><td>San Jose</td><td>1100 block of E William St</td><td>1</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405235">View Incident</a></li>
 <li class="1 last"><a href="https://www.nbcbayarea.com/news/local/south-bay/double-shooting-san-jose/2993195/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2404403</td><td>September 1, 2022</td><td>Alabama</td><td>Hartselle</td><td>Quail Creek Dr</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404403">View Incident</a></li>
+<tr class="even"><td>2404403</td><td>September 1, 2022</td><td>Alabama</td><td>Hartselle</td><td>Quail Creek Dr</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404403">View Incident</a></li>
 <li class="1 last"><a href="https://www.waff.com/2022/09/02/victim-identified-quail-creek-campground-shooting/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2403899</td><td>September 1, 2022</td><td>Wisconsin</td><td>Milwaukee</td><td>N Michele St and N 96th St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403899">View Incident</a></li>
+<tr class="odd"><td>2403899</td><td>September 1, 2022</td><td>Wisconsin</td><td>Milwaukee</td><td>N Michele St and N 96th St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403899">View Incident</a></li>
 <li class="1 last"><a href="https://www.fox6now.com/news/milwaukee-shootings-man-woman-wounded" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2403897</td><td>September 1, 2022</td><td>Wisconsin</td><td>Milwaukee</td><td>N 13th St and W Galena St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403897">View Incident</a></li>
+<tr class="even"><td>2403897</td><td>September 1, 2022</td><td>Wisconsin</td><td>Milwaukee</td><td>N 13th St and W Galena St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403897">View Incident</a></li>
 <li class="1 last"><a href="https://www.fox6now.com/news/milwaukee-shootings-man-woman-wounded" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2404794</td><td>September 1, 2022</td><td>Texas</td><td>Rockwall</td><td>300 block of Summerhill Dr</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404794">View Incident</a></li>
+<tr class="odd"><td>2404794</td><td>September 1, 2022</td><td>Texas</td><td>Rockwall</td><td>300 block of Summerhill Dr</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404794">View Incident</a></li>
 <li class="1 last"><a href="https://www.cbsnews.com/dfw/news/kidnapping-suspect-killed-in-shootout-with-rockwall-officers-police-say/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2404789</td><td>September 1, 2022</td><td>Pennsylvania</td><td>Harrisburg</td><td>2600 block of N 6th St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404789">View Incident</a></li>
+<tr class="even"><td>2404789</td><td>September 1, 2022</td><td>Pennsylvania</td><td>Harrisburg</td><td>2600 block of N 6th St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404789">View Incident</a></li>
 <li class="1 last"><a href="https://www.fox43.com/article/news/crime/harrisburg-police-investigate-shooting-1-minor-injured/521-46afe94d-a27a-4184-8916-ef5ad988c59b" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2403848</td><td>September 1, 2022</td><td>Wisconsin</td><td>Milwaukee</td><td>W Groeling Ave and N Teutonia Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403848">View Incident</a></li>
+<tr class="odd"><td>2403848</td><td>September 1, 2022</td><td>Wisconsin</td><td>Milwaukee</td><td>W Groeling Ave and N Teutonia Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403848">View Incident</a></li>
 <li class="1 last"><a href="https://www.cbs58.com/news/29-year-old-milwaukee-man-seriously-hurt-in-shooting-near-teutonia-and-groeling-avenues" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2403838</td><td>September 1, 2022</td><td>District of Columbia</td><td>Washington</td><td>200 block of Tennessee Ave NE</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403838">View Incident</a></li>
+<tr class="even"><td>2403838</td><td>September 1, 2022</td><td>District of Columbia</td><td>Washington</td><td>200 block of Tennessee Ave NE</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403838">View Incident</a></li>
 <li class="1 last"><a href="https://wjla.com/news/local/dc-shooting-man-injured-hospital-near-maury-elementary-school-northeast-washington-dc-metropolitan-police-department-gunshot-wound-gun-crime-mpd" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2403826</td><td>September 1, 2022</td><td>Florida</td><td>Jacksonville</td><td>5000 block of Kernan Blvd S</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403826">View Incident</a></li>
+<tr class="odd"><td>2403826</td><td>September 1, 2022</td><td>Florida</td><td>Jacksonville</td><td>5000 block of Kernan Blvd S</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403826">View Incident</a></li>
 <li class="1 last"><a href="https://www.actionnewsjax.com/news/local/police-investigating-shooting-kernan-blvd/LB7FG2RUNFAEXLJFS3BWCWZJUI/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2404656</td><td>September 1, 2022</td><td>Georgia</td><td>Atlanta</td><td>3230 Lynfield Dr SW</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404656">View Incident</a></li>
+<tr class="even"><td>2404656</td><td>September 1, 2022</td><td>Georgia</td><td>Atlanta</td><td>3230 Lynfield Dr SW</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404656">View Incident</a></li>
 <li class="1 last"><a href="https://www.atlantapd.org/Home/Components/News/News/3091/71" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2404780</td><td>September 1, 2022</td><td>Illinois</td><td>Chicago</td><td>9400 block of S Wentworth Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404780">View Incident</a></li>
+<tr class="odd"><td>2404780</td><td>September 1, 2022</td><td>Illinois</td><td>Chicago</td><td>9400 block of S Wentworth Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404780">View Incident</a></li>
 <li class="1 last"><a href="https://home.chicagopolice.org/media_incident/9400-block-of-south-wentworth-on-01-sep-2022-at-approx-555-p-m-006th-district/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2404759</td><td>September 1, 2022</td><td>Texas</td><td>Spring</td><td>31200 block of N Head Dr</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404759">View Incident</a></li>
+<tr class="even"><td>2404759</td><td>September 1, 2022</td><td>Texas</td><td>Spring</td><td>31200 block of N Head Dr</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404759">View Incident</a></li>
 <li class="1 last"><a href="https://www.yourconroenews.com/neighborhood/moco/news/article/Man-shoots-kills-childhood-friend-during-argument-17415193.php" target="_blank">View Source</a></li>
 </ul></td> </tr>
-
 <tr class="odd"><td>2403766</td><td>September 1, 2022</td><td>Georgia</td><td>Union City</td><td>6690 Shannon Pkwy</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403766">View Incident</a></li>
 <li class="1 last"><a href="https://www.11alive.com/article/news/local/union-city/union-city-extended-stay-motel-shooting/85-fd732613-bb52-403c-9307-ef10953c98c2" target="_blank">View Source</a></li>
 </ul></td> </tr>
@@ -768,17 +910,15 @@
 <tr class="odd"><td>2403581</td><td>September 1, 2022</td><td>Arizona</td><td>Phoenix</td><td>19th Ave and Hatcher Rd</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403581">View Incident</a></li>
 <li class="1 last"><a href="https://www.azfamily.com/2022/09/01/man-critical-condition-after-shooting-group-home-facility-phoenix/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2403749</td><td>September 1, 2022</td><td>Indiana</td><td>New Albany</td><td>1300 block of Beechwood Ave</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403749">View Incident</a></li>
+
+<tr class="odd"><td>2403749</td><td>September 1, 2022</td><td>Indiana</td><td>New Albany</td><td>1300 block of Beechwood Ave</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403749">View Incident</a></li>
 <li class="1 last"><a href="https://www.wave3.com/2022/09/01/man-shot-killed-new-albany-identified/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="odd"><td>2403739</td><td>September 1, 2022</td><td>Indiana</td><td>Bloomington</td><td>1700 block of S Pinestone Ct</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403739">View Incident</a></li>
+<tr class="even"><td>2403739</td><td>September 1, 2022</td><td>Indiana</td><td>Bloomington</td><td>1700 block of S Pinestone Ct</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403739">View Incident</a></li>
 <li class="1 last"><a href="http://www.wbiw.com/2022/09/01/man-shot-during-an-attempted-burglary-flees-the-scene-calls-911-and-is-transported-to-the-hospital/" target="_blank">View Source</a></li>
 </ul></td> </tr>
-<tr class="even"><td>2403560</td><td>September 1, 2022</td><td>Arizona</td><td>Tempe</td><td>S 48th St and E Broadway Rd</td><td>2</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403560">View Incident</a></li>
+<tr class="odd"><td>2403560</td><td>September 1, 2022</td><td>Arizona</td><td>Tempe</td><td>S 48th St and E Broadway Rd</td><td>2</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403560">View Incident</a></li>
 <li class="1 last"><a href="https://www.fox10phoenix.com/news/south-phoenix-shooting-leaves-2-dead-no-arrests-made" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="odd"><td>2404429</td><td>September 1, 2022</td><td>Ohio</td><td>Westerville</td><td>6481 N Hamilton Rd</td><td>1</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404429">View Incident</a></li>
-<li class="1 last"><a href="https://abc6onyourside.com/news/local/1-dead-1-injured-in-northeast-columbus-shooting" target="_blank">View Source</a></li>
 </ul></td> </tr>
 <tr class="even"><td>2403672</td><td>September 1, 2022</td><td>Ohio</td><td>Columbus</td><td>Parsons Ave and E Whittier St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403672">View Incident</a></li>
 <li class="1 last"><a href="https://www.nbc4i.com/news/local-news/columbus/one-hospitalized-after-south-columbus-shooting/" target="_blank">View Source</a></li>
@@ -824,80 +964,4 @@
 </ul></td> </tr>
 <tr class="even"><td>2404526</td><td>September 1, 2022</td><td>Florida</td><td>Gainesville</td><td>1727 NE 8th Ave</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404526">View Incident</a></li>
 <li class="1 last"><a href="https://www.wcjb.com/2022/09/02/gpd-investigates-deadly-shooting-ne-gainesville/" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="odd"><td>2404245</td><td>September 1, 2022</td><td>District of Columbia</td><td>Washington</td><td>15th St SE and Mississippi Ave SE</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404245">View Incident</a></li>
-<li class="1 last"><a href="https://www.wusa9.com/article/news/crime/police-man-shot-death-southeast-dc/65-20d2ead0-3d79-4f73-9f46-4abae3ea3d80" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="even"><td>2403555</td><td>September 1, 2022</td><td>Texas</td><td>El Paso</td><td>3800 block of Morehead Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403555">View Incident</a></li>
-<li class="1 last"><a href="https://www.ktsm.com/news/eppd-respond-to-shooting-in-central-el-paso/" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="odd"><td>2404516</td><td>September 1, 2022</td><td>Florida</td><td>Pensacola</td><td>DeVilliers St and Jackson St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404516">View Incident</a></li>
-<li class="1 last"><a href="https://weartv.com/news/local/man-shot-in-leg-near-devilliers-street-in-pensacola" target="_blank">View Source</a></li>
-</ul></td> </tr>
-
-<tr class="odd"><td>2403534</td><td>September 1, 2022</td><td>Colorado</td><td>Colorado Springs</td><td>1700 block of Aeroplaza Dr</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403534">View Incident</a></li>
-<li class="1 last"><a href="https://www.fox21news.com/news/police-investigating-after-shooting-in-colorado-springs/" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="even"><td>2403944</td><td>September 1, 2022</td><td>Illinois</td><td>Chicago</td><td>1600 block of W 79th St</td><td>1</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403944">View Incident</a></li>
-<li class="1 last"><a href="https://chicago.suntimes.com/crime/2022/9/1/23333573/man-and-woman-seriously-hurt-gresham-shooting" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="odd"><td>2404478</td><td>September 1, 2022</td><td>Illinois</td><td>Chicago</td><td>I-90 and Sacramento Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404478">View Incident</a></li>
-<li class="1 last"><a href="https://www.cbsnews.com/chicago/news/1-person-hospitalized-after-being-shot-inside-vehicle-on-kennedy-expressway/" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="even"><td>2404471</td><td>September 1, 2022</td><td>Maryland</td><td>Baltimore</td><td>2500 block of McHenry St</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404471">View Incident</a></li>
-<li class="1 last"><a href="https://www.yahoo.com/now/police-male-dies-shock-trauma-053500322.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAABhEbF-iNa1zQCfVwjVKsYF6jkViPVRmP1BMsMWirOY0P5cvJPHzmpMKZbO7WCEiVv2lpZy5socLqugUsud42PGuI3fYmfsS-MuOu9e" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="odd"><td>2404461</td><td>September 1, 2022</td><td>Mississippi</td><td>Jackson</td><td>Carolyn Ave and Clinton Blvd</td><td>0</td><td>2</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404461">View Incident</a></li>
-<li class="1 last"><a href="https://www.wlbt.com/2022/09/02/two-people-shot-rushed-hospital-after-shooting-jackson/" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="even"><td>2404459</td><td>September 1, 2022</td><td>Mississippi</td><td>Jackson</td><td>Prentiss St and Capitol St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404459">View Incident</a></li>
-<li class="1 last"><a href="https://www.wapt.com/article/jackson-police-investigating-shooting-at-car-wash/41059393" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="odd"><td>2403457</td><td>September 1, 2022</td><td>Illinois</td><td>Chicago</td><td>7200 block of S Ashland Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403457">View Incident</a></li>
-<li class="1 last"><a href="https://www.fox32chicago.com/news/west-englewood-shooting-man-critically-wounded-by-gunfire" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="even"><td>2403455</td><td>September 1, 2022</td><td>Illinois</td><td>Chicago</td><td>300 block of S Kilpatrick Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2403455">View Incident</a></li>
-<li class="1 last"><a href="https://www.fox32chicago.com/news/gunfire-hits-man-30-on-chicagos-west-side" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="odd"><td>2404132</td><td>September 1, 2022</td><td>Illinois</td><td>Peoria</td><td>2400 block of W Marquette Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404132">View Incident</a></li>
-<li class="1 last"><a href="https://www.centralillinoisproud.com/news/local-news/no-suspect-yet-in-shooting-that-left-one-teen-injured/" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="even"><td>2404448</td><td>September 1, 2022</td><td>Louisiana</td><td>New Orleans</td><td>N Peters St and Bienville St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404448">View Incident</a></li>
-<li class="1 last"><a href="https://www.nola.com/news/crime_police/article_59c0e2a4-2a36-11ed-b51a-7b41b6eb45b3.html" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="odd"><td>2404441</td><td>September 1, 2022</td><td>Louisiana</td><td>Baton Rouge</td><td>11000 block of Foster Rd</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404441">View Incident</a></li>
-<li class="1 last"><a href="https://www.theadvocate.com/baton_rouge/news/crime_police/article_453a498c-2a3c-11ed-86ac-07f65b32be2d.html" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="even"><td>2405250</td><td>September 1, 2022</td><td>California</td><td>Orange Cove</td><td>C St and 10th St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405250">View Incident</a></li>
-<li class="1 last"><a href="https://abc30.com/orange-cove-man-shot-hospitalized-20-year-old/12189359/" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="odd"><td>2404427</td><td>September 1, 2022</td><td>Texas</td><td>Houston</td><td>9525 Southwest Fwy</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404427">View Incident</a></li>
-<li class="1 last"><a href="https://twitter.com/houstonpolice/status/1565497307319222272" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="even"><td>2404425</td><td>September 1, 2022</td><td>Texas</td><td>Houston</td><td>4405 Lockwood Dr</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404425">View Incident</a></li>
-<li class="1 last"><a href="https://twitter.com/houstonpolice/status/1565513777436655617" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="odd"><td>2405245</td><td>September 1, 2022</td><td>Louisiana</td><td>Houma</td><td>200 block of Paulette St</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2405245">View Incident</a></li>
-<li class="1 last"><a href="https://www.houmatoday.com/story/news/crime/2022/09/02/houma-man-shot-and-killed-suspect-charged-with-second-degree-murder/65470707007/" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="even"><td>2404419</td><td>September 1, 2022</td><td>Alabama</td><td>Elmore</td><td>1400 block of Ingram Rd</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404419">View Incident</a></li>
-<li class="1 last"><a href="https://www.montgomeryadvertiser.com/story/news/crime/2022/09/01/elmore-man-shot-and-killed-grandson-charged-crime-alabama/65468034007/" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="odd"><td>2404415</td><td>September 1, 2022</td><td>Alabama</td><td>Montgomery</td><td>4500 block of Narrow Lane Rd</td><td>1</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404415">View Incident</a></li>
-<li class="1 last"><a href="https://www.alabamanews.net/2022/09/01/man-charged-with-capital-murder-after-shooting-in-montgomery-leaves-one-dead-another-injured/" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="even"><td>2404413</td><td>September 1, 2022</td><td>Alabama</td><td>Montgomery</td><td>3000 block of Dillworth Rd</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404413">View Incident</a></li>
-<li class="1 last"><a href="https://www.alabamanews.net/2022/09/01/woman-shot-in-montgomery/" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="odd"><td>2404184</td><td>September 1, 2022</td><td>Virginia</td><td>Newport News</td><td>1300 block of Sojourner Ct</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404184">View Incident</a></li>
-<li class="1 last"><a href="https://www.wavy.com/news/local-news/newport-news-pd-respond-to-shooting-on-sojourner-ct/" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="even"><td>2404497</td><td>September 1, 2022</td><td>Oregon</td><td>Portland</td><td>I-205 and Glisan St</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404497">View Incident</a></li>
-<li class="1 last"><a href="https://www.kgw.com/article/news/crime/shooting-interstate-205-cab-driver/283-8892677a-77d2-4dd1-8c8a-ea08e803e707" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="odd"><td>2404410</td><td>September 1, 2022</td><td>Alabama</td><td>Mobile</td><td>3006 Halls Mill Rd</td><td>1</td><td>0</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404410">View Incident</a></li>
-<li class="1 last"><a href="https://www.fox10tv.com/2022/09/02/one-man-confirmed-dead-late-night-shooting/" target="_blank">View Source</a></li>
-</ul></td> </tr>
-<tr class="even"><td>2404041</td><td>September 1, 2022</td><td>North Carolina</td><td>Asheville</td><td>Erskine Ave</td><td>0</td><td>1</td><td><ul class="links inline links-new-lines"><li class="0 first"><a href="/incident/2404041">View Incident</a></li>
-<li class="1 last"><a href="https://news.yahoo.com/teen-shooting-victim-released-hospital-163128250.html" target="_blank">View Source</a></li>
 </ul></td> </tr>

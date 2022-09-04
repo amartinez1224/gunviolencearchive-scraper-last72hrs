@@ -7,7 +7,7 @@ URL = 'https://www.gunviolencearchive.org/last-72-hours'
  
 async def main():
     async with async_playwright() as p:
-        browser = await p.firefox.launch(headless=False)
+        browser = await p.firefox.launch()
         page = await browser.new_page()
         await page.goto(URL, wait_until="networkidle")
 
@@ -21,9 +21,8 @@ async def main():
             try:
                 await next.wait_for(state='visible',timeout=2000)
             except TimeoutError:
-                print('last page')
                 break
-            await asyncio.sleep(random.random()*4)
+            await asyncio.sleep(random.random()*3)
             await next.click()
 
         await browser.close()

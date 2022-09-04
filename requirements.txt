@@ -1,6 +1,8 @@
 asyncio==3.4.3
+beautifulsoup4==4.11.1
 greenlet==1.1.2
 playwright==1.25.2
 pyee==8.1.0
+soupsieve==2.3.2.post1
 typing-extensions==4.3.0
 websockets==10.1

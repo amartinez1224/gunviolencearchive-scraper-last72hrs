@@ -3,10 +3,17 @@ import json
 
 URL = 'https://www.gunviolencearchive.org/'
 
-def main():
-
-    with open("data/dataTable.txt", "r") as f:
+def getData(fileName = 'data/dataTable.txt'):
+    with open(fileName, 'r') as f:
         tables = f.read()
+    return tables
+
+def writeData(data, fileName = 'data/data.json'):
+    with open(fileName, 'w') as f:
+        json.dump(data, f, indent=4)
+
+def process(tables):
+    
     soup = BeautifulSoup(tables, 'html.parser')
 
     incidents = []
@@ -28,9 +35,10 @@ def main():
         incident['source'] = links[1]['href']
 
         incidents.append(incident)
-
-    with open('data/data.json', 'w') as f:
-        json.dump(incidents, f, indent=4)
+    
+    return incidents
 
 if __name__ == '__main__':
-    main()
+    tables = getData()
+    incidents = process(tables)
+    writeData(incidents)
